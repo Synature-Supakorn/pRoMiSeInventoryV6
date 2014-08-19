@@ -1,0 +1,162 @@
+﻿.icon-action-approve { background-image: url(../Images/icon/approve.png) !important; background-position:center center; background-repeat:no-repeat;}
+.icon-action-cancel { background-image: url(../Images/icon/cancel.png) !important; background-position:center center; background-repeat:no-repeat;}
+.icon-action-copy { background-image: url(../Images/icon/copy.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-newdoc { background-image: url(../Images/icon/document.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-new { background-image: url(../Images/icon/new.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-print-preview { background-image: url(../Images/icon/print-preview.png) !important; background-position:center center; background-repeat:no-repeat;  }
+.icon-action-print { background-image: url(../Images/icon/print.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-saveall { background-image: url(../Images/icon/saveall.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-save { background-image: url(../Images/icon/save.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-search { background-image: url(../Images/icon/search.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-action-reload { background-image: url(../Images/icon/reload.png) !important; background-position:center center; background-repeat:no-repeat; }
+.icon-export-doc { background-image: url(../Images/icon/doc.png) !important; background-position:center center; background-repeat:no-repeat;}
+.icon-export-xls { background-image: url(../Images/icon/xls.png) !important;  background-repeat:no-repeat; background-position:center center;}
+.icon-export-pdf { background-image: url(../Images/icon/pdf.png) !important;  background-repeat:no-repeat; background-position:center center;}
+.icon-action-report{background-image:url(../Images/icon/report.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-action-table-display{background-image:url(../Images/icon/table-display.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-action-set-counting{background-image:url(../Images/icon/15067-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-action-history{background-image:url(../Images/icon/history-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-cancel{background-image:url(../Images/icon/btn_cancel.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-ok{background-image:url(../Images/icon/btn_ok.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-addrow-after{background-image:url(../Images/icon/row_add_after.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-vendorgroup{background-image:url(../Images/icon/vendorgroup-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-add-vendor{background-image:url(../Images/icon/vendor_add-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-del-vendor{background-image:url(../Images/icon/vendor_del-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-edit-vendor{background-image:url(../Images/icon/vendor_edit-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-adjust{background-image:url(../Images/icon/adjust-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-search{background-image:url(../Images/icon/search-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-find-doc{background-image:url(../Images/icon/document_find-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-autotransfer{background-image:url(../Images/icon/auto_transfer-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-btn-add{background-image:url(../Images/icon/add-16.png) !important;  background-position: center center; background-repeat:no-repeat;}
+.icon-houses{background-image:url(../Images/icon/houses.png) !important;  background-position: center center; background-repeat:no-repeat;}
+
+
+
+/* toolbar icon*/
+.icon-toolbar{background-color:#BCC7D8; border:#BCC7D8 1px solid; width:24px; height:24px;}
+
+/* icon in menu */
+.icon-menu-receipt{background:url(../images/icon/15046-16-1.png) left no-repeat;}
+.icon-menu-purchase-receipt{background:url(../images/icon/15046-16-2.png) left no-repeat;}
+.icon-menu-transfer-receipt{background:url(../images/icon/15046-16-3.png) left no-repeat;}
+
+/* mod-icon */
+.icon-purchase-document {background-image:url(../Images/icon/15045-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-receipt-document {background-image:url(../Images/icon/15046-32.png);  background-position: 0 0; background-repeat:no-repeat;}
+.icon-transfer-document {background-image:url(../Images/icon/15047-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-request-document {background-image:url(../Images/icon/15048-32.png);  background-position: 0 0; background-repeat:no-repeat;}
+.icon-find-document {background-image:url(../Images/icon/15049-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-daily-stock {background-image:url(../Images/icon/15050-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-weekly-stock {background-image:url(../Images/icon/15065-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-monthly-stock {background-image:url(../Images/icon/15051-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-minimum-stock {background-image:url(../Images/icon/15052-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-stockcard {background-image:url(../Images/icon/15053-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-inout-stock {background-image:url(../Images/icon/15049-32.png);  background-position: 0 0; background-repeat:no-repeat;}
+.icon-user-login {margin:0 2px 0 8px; background-image:url(../Images/icon/users3.png); background-position: center center; background-repeat:no-repeat; height:16px; width:16px; display:block;}
+.icon-logout {margin:0 2px 0 8px; background-image:url(../Images/icon/lock.png); background-position: center center; background-repeat:no-repeat; height:16px; width:16px; display:block;}
+.icon-config-counting-stock {background-image:url(../Images/icon/15067-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-vendors {background-image:url(../Images/icon/15055-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-adjust-stock {background-image:url(../Images/icon/15056-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-find-document {background-image:url(../Images/icon/15049-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-documentbox {background-image:url(../Images/icon/15060-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-packingdoc {background-image:url(../Images/icon/15068-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-preparedoc {background-image:url(../Images/icon/15069-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-transfer-dryfood {background-image:url(../Images/icon/15070-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-prefinish {background-image:url(../Images/icon/15096-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-pofrombatch {background-image:url(../Images/icon/15097-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-logout {background-image:url(../Images/icon/15098-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-config-stockamount {background-image:url(../Images/icon/15099-32.png); background-position: 0 0; background-repeat:no-repeat;}
+.icon-mod-importexport {background-image:url(../Images/icon/15106-32.png); background-position: 0 0; background-repeat:no-repeat;}
+
+
+/** menu icons **/
+.icon-16-archive        { background-image: url(../images/menu/icon-16-archive.png); }
+.icon-16-article        { background-image: url(../images/menu/icon-16-article.png); }
+.icon-16-category   { background-image: url(../images/menu/icon-16-category.png); }
+.icon-16-checkin        { background-image: url(../images/menu/icon-16-checkin.png); }
+.icon-16-component  { background-image: url(../images/menu/icon-16-component.png); }
+.icon-16-config         { background-image: url(../images/menu/icon-16-config.png); }
+.icon-16-content        { background-image: url(../images/menu/icon-16-content.png); }
+.icon-16-cpanel         { background-image: url(../images/menu/icon-16-cpanel.png); }
+.icon-16-default        { background-image: url(../images/menu/icon-16-default.png); }
+.icon-16-frontpage  { background-image: url(../images/menu/icon-16-frontpage.png); }
+.icon-16-help           { background-image: url(../images/menu/icon-16-help.png); }
+.icon-16-info           { background-image: url(../images/menu/icon-16-info.png); }
+.icon-16-install        { background-image: url(../images/menu/icon-16-install.png);}
+.icon-16-language   { background-image: url(../images/menu/icon-16-language.png);}
+.icon-16-logout         { background-image: url(../images/icon-16-logout.png);}
+.icon-16-massmail   { background-image: url(../images/menu/icon-16-massmail.png); }
+.icon-16-media      { background-image: url(../images/menu/icon-16-media.png);}
+.icon-16-menu           { background-image: url(../images/menu/icon-16-menu.png); }
+.icon-16-menumgr        { background-image: url(../images/menu/icon-16-menumgr.png); }
+.icon-16-messages   { background-image: url(../images/menu/icon-16-messages.png); }
+.icon-16-module         { background-image: url(../images/menu/icon-16-module.png); }
+.icon-16-plugin         { background-image: url(../images/menu/icon-16-plugin.png); }
+.icon-16-section        { background-image: url(../images/menu/icon-16-section.png); }
+.icon-16-static         { background-image: url(../images/menu/icon-16-static.png); }
+.icon-16-stats      { background-image: url(../images/menu/icon-16-stats.png); }
+.icon-16-themes         { background-image: url(../images/menu/icon-16-themes.png); }
+.icon-16-trash      { background-image: url(../images/menu/icon-16-trash.png); }
+.icon-16-user           { background-image: url(../images/menu/icon-16-user.png); }
+
+
+/** toolbar icons **/
+.icon-32-send           { background-image: url(../images/toolbar/icon-32-send.png); }
+.icon-32-delete         { background-image: url(../images/toolbar/icon-32-delete.png); }
+.icon-32-help           { background-image: url(../images/toolbar/icon-32-help.png); }
+.icon-32-cancel         { background-image: url(../images/toolbar/icon-32-cancel.png); }
+.icon-32-config         { background-image: url(../images/toolbar/icon-32-config.png); }
+.icon-32-apply      { background-image: url(../images/toolbar/icon-32-apply.png); }
+.icon-32-back           { background-image: url(../images/toolbar/icon-32-back.png); }
+.icon-32-forward        { background-image: url(../images/toolbar/icon-32-forward.png); }
+.icon-32-save           { background-image: url(../images/toolbar/icon-32-save.png); }
+.icon-32-edit           { background-image: url(../images/toolbar/icon-32-edit.png); }
+.icon-32-copy           { background-image: url(../images/toolbar/icon-32-copy.png); }
+.icon-32-move           { background-image: url(../images/toolbar/icon-32-move.png); }
+.icon-32-new            { background-image: url(../images/toolbar/icon-32-new.png); }
+.icon-32-upload         { background-image: url(../images/toolbar/icon-32-upload.png); }
+.icon-32-assign         { background-image: url(../images/toolbar/icon-32-publish.png); }
+.icon-32-html           { background-image: url(../images/toolbar/icon-32-html.png); }
+.icon-32-css            { background-image: url(../images/toolbar/icon-32-css.png); }
+.icon-32-menus          { background-image: url(../images/toolbar/icon-32-menu.png); }
+.icon-32-publish        { background-image: url(../images/toolbar/icon-32-publish.png); }
+.icon-32-unpublish  { background-image: url(../images/toolbar/icon-32-unpublish.png);}
+.icon-32-restore        { background-image: url(../images/toolbar/icon-32-revert.png); }
+.icon-32-trash      { background-image: url(../images/toolbar/icon-32-trash.png); }
+.icon-32-archive        { background-image: url(../images/toolbar/icon-32-archive.png); }
+.icon-32-unarchive  { background-image: url(../images/toolbar/icon-32-unarchive.png); }
+.icon-32-preview        { background-image: url(../images/toolbar/icon-32-preview.png); }
+.icon-32-default        { background-image: url(../images/toolbar/icon-32-default.png); }
+
+/** header icons **/
+.icon-48-generic        { background-image: url(../images/header/icon-48-generic.png); }
+.icon-48-checkin        { background-image: url(../images/header/icon-48-checkin.png); }
+.icon-48-cpanel         { background-image: url(../images/header/icon-48-cpanel.png); }
+.icon-48-config         { background-image: url(../images/header/icon-48-config.png); }
+.icon-48-module         { background-image: url(../images/header/icon-48-module.png); }
+.icon-48-menu           { background-image: url(../images/header/icon-48-menu.png); }
+.icon-48-menumgr        { background-image: url(../images/header/icon-48-menumgr.png); }
+.icon-48-trash      { background-image: url(../images/header/icon-48-trash.png); }
+.icon-48-user           { background-image: url(../images/header/icon-48-user.png); }
+.icon-48-inbox      { background-image: url(../images/header/icon-48-inbox.png); }
+.icon-48-msgconfig  { background-image: url(../images/header/icon-48-message_config.png); }
+.icon-48-langmanager { background-image: url(../images/header/icon-48-language.png); }
+.icon-48-mediamanager{ background-image: url(../images/header/icon-48-media.png); }
+.icon-48-plugin     { background-image: url(../images/header/icon-48-plugin.png); }
+.icon-48-help_header { background-image: url(../images/header/icon-48-help_header.png); }
+.icon-48-impressions { background-image: url(../images/header/icon-48-stats.png); }
+.icon-48-browser        { background-image: url(../images/header/icon-48-stats.png); }
+.icon-48-searchtext     { background-image: url(../images/header/icon-48-stats.png); }
+.icon-48-thememanager{ background-image: url(../images/header/icon-48-themes.png); }
+.icon-48-massemail  { background-image: url(../images/header/icon-48-massemail.png); }
+.icon-48-frontpage  { background-image: url(../images/header/icon-48-frontpage.png); }
+.icon-48-sections   { background-image: url(../images/header/icon-48-section.png); }
+.icon-48-addedit        { background-image: url(../images/header/icon-48-article.png); }
+.icon-48-categories     { background-image: url(../images/header/icon-48-category.png); }
+.icon-48-install        { background-image: url(../images/header/icon-48-extension.png); }
+.icon-48-dbbackup       { background-image: url(../images/header/icon-48-backup.png); }
+.icon-48-dbrestore  { background-image: url(../images/header/icon-48-dbrestore.png); }
+.icon-48-dbquery        { background-image: url(../images/header/icon-48-query.png); }
+.icon-48-systeminfo     { background-image: url(../images/header/icon-48-info.png); }
+.icon-48-massemail  { background-image: url(../images/header/icon-48-massmail.png); }
+

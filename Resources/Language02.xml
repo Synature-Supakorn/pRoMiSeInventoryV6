@@ -1,0 +1,5031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LanguageData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Template</DefaultText>
+    <Lang1>Template</Lang1>
+    <Lang2>สร้างเอกสารใหม่จากเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Edit Template</DefaultText>
+    <Lang1>Edit Template</Lang1>
+    <Lang2>แก้ไขจากเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VenderGroup</DefaultText>
+    <Lang1>VenderGroup</Lang1>
+    <Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Vender</DefaultText>
+    <Lang1>Vender</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Term Of Payment</DefaultText>
+    <Lang1>Term Of Payment</Lang1>
+    <Lang2>ประเภทการจ่ายเงิน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่งสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Purchase Document</DefaultText>
+    <Lang1>Purchase Document</Lang1>
+    <Lang2>เอกสารสั่งซื้อ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>1</TextID>
+    <DefaultText>SubTotal</DefaultText>
+    <Lang1>SubTotal</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>3</TextID>
+    <DefaultText>NetPrice</DefaultText>
+    <Lang1>NetPrice</Lang1>
+    <Lang2>ยอดรวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Total VAT</DefaultText>
+    <Lang1>Total VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>5</TextID>
+    <DefaultText>GrandTotal</DefaultText>
+    <Lang1>GrandTotal</Lang1>
+    <Lang2>ยอดรวมทั้งหมด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Unable to connect to the database at this time.</DefaultText>
+    <Lang1>Unable to connect to the database at this time.</Lang1>
+    <Lang2>ไม่สามารถเชื่อมต่อฐานข้อมูลได้ ในขณนี้</Lang2>
+  </Form>
+  <Form>
+    <FormID>10001</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Create Document</DefaultText>
+    <Lang1>Create Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Receive Purchase Document</DefaultText>
+    <Lang1>Search Receive Purchase Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Close</DefaultText>
+    <Lang1>Close</Lang1>
+    <Lang2>จบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VenderGroup</DefaultText>
+    <Lang1>VenderGroup</Lang1>
+    <Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Vender</DefaultText>
+    <Lang1>Vender</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Term Of Payment</DefaultText>
+    <Lang1>Term Of Payment</Lang1>
+    <Lang2>ประเภทการจ่ายเงิน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่งสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Document Ref.</DefaultText>
+    <Lang1>Document Ref.</Lang1>
+    <Lang2>เลขที่เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive From Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Receive From Purchase Document</DefaultText>
+    <Lang1>Receive From Purchase Document</Lang1>
+    <Lang2>เอกสารรับจากการสั่งซื้อ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive From Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Supplier Invoice Ref.</DefaultText>
+    <Lang1>Supplier Invoice Ref.</Lang1>
+    <Lang2>SupplierInvoiceRef.</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive From Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>14</TextID>
+    <DefaultText>Invoice</DefaultText>
+    <Lang1>Invoice</Lang1>
+    <Lang2>Invoice</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive From Purchase Document</FormName>
+    <TextType>2</TextType>
+    <TextID>15</TextID>
+    <DefaultText>Invoice Date</DefaultText>
+    <Lang1>Invoice Date</Lang1>
+    <Lang2>Invoice Date</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Qty(PO)</DefaultText>
+    <Lang1>Qty(PO)</Lang1>
+    <Lang2>จำนวน(ซื้อ)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Qty(RO)</DefaultText>
+    <Lang1>Qty(RO)</Lang1>
+    <Lang2>จำนวน(รับ)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Total(RO)</DefaultText>
+    <Lang1>Total(RO)</Lang1>
+    <Lang2>ราคารวม(รับ)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>3</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Total(PO)</DefaultText>
+    <Lang1>Total(PO)</Lang1>
+    <Lang2>ราคารวม(ซื้อ)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>1</TextID>
+    <DefaultText>SubTotal</DefaultText>
+    <Lang1>SubTotal</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>3</TextID>
+    <DefaultText>NetPrice</DefaultText>
+    <Lang1>NetPrice</Lang1>
+    <Lang2>ยอดรวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Total VAT</DefaultText>
+    <Lang1>Total VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>4</TextType>
+    <TextID>5</TextID>
+    <DefaultText>GrandTotal</DefaultText>
+    <Lang1>GrandTotal</Lang1>
+    <Lang2>ยอดรวมทั้งหมด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10002</FormID>
+    <FormName>Receive Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Do you want to close PO document?</DefaultText>
+    <Lang1>Do you want to close PO document?</Lang1>
+    <Lang2>คุณต้องปิดเอกสารสั่งซื้อที่ยังรับไม่ครบใช่หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Template</Lang1>
+    <Lang2>สร้างเอกสารใหม่จากเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VenderGroup</DefaultText>
+    <Lang1>VenderGroup</Lang1>
+    <Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Vender</DefaultText>
+    <Lang1>Vender</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Term Of Payment</DefaultText>
+    <Lang1>Term Of Payment</Lang1>
+    <Lang2>ประเภทการจ่ายเงิน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่งสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Direct Receive Order</DefaultText>
+    <Lang1>Direct Receive Order</Lang1>
+    <Lang2>เอกสารรับสินค้าตรง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>4</TextType>
+    <TextID>1</TextID>
+    <DefaultText>SubTotal</DefaultText>
+    <Lang1>SubTotal</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>4</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>4</TextType>
+    <TextID>3</TextID>
+    <DefaultText>NetPrice</DefaultText>
+    <Lang1>NetPrice</Lang1>
+    <Lang2>ยอดรวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>4</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Total VAT</DefaultText>
+    <Lang1>Total VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>4</TextType>
+    <TextID>5</TextID>
+    <DefaultText>GrandTotal</DefaultText>
+    <Lang1>GrandTotal</Lang1>
+    <Lang2>ยอดรวมทั้งหมด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10003</FormID>
+    <FormName>Purchase Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+    <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Tranfer Document</DefaultText>
+    <Lang1>Search Tranfer Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Search Request Document</DefaultText>
+    <Lang1>Search Request Document</Lang1>
+    <Lang2>สร้างเอกสารจากใบขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>CreateNewDocumentFromTemplate</DefaultText>
+    <Lang1>CreateNewDocumentFromTemplate</Lang1>
+    <Lang2>สร้างเอกสารใหม่จากเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Material in stock enough for transfer.</DefaultText>
+    <Lang1>Material in stock enough for transfer.</Lang1>
+    <Lang2>จำนวนวัตถุดิบมีไม่พียงพอต่อการโอนย้าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Tranfer Document</DefaultText>
+    <Lang1>Tranfer Document</Lang1>
+    <Lang2>เอกสารโอนย้ายสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Transfer With Cost Document</DefaultText>
+    <Lang1>Transfer With Cost Document</Lang1>
+    <Lang2>เอกสารโอนย้ายสินค้าที่มีราคา</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Transfer No Inventory</DefaultText>
+    <Lang1>Transfer No Inventory</Lang1>
+    <Lang2>เอกสารเบิกสินค้าจากคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Depatment</DefaultText>
+    <Lang1>Depatment</Lang1>
+    <Lang2>แผนก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Tranfer</DefaultText>
+    <Lang1>Tranfer</Lang1>
+    <Lang2>จำนวนโอน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Stock</DefaultText>
+    <Lang1>Stock</Lang1>
+    <Lang2>สต๊อกปัจจุบัน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+ 
+    <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+    <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10004</FormID>
+    <FormName>Tranfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Click Reload</DefaultText>
+    <Lang1>Click Reload</Lang1>
+    <Lang2>Click Reload</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Template</DefaultText>
+    <Lang1>Template</Lang1>
+    <Lang2>สร้างเอกสารใหม่จากเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Request Document</DefaultText>
+    <Lang1>Request Document</Lang1>
+    <Lang2>เอกสารขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Message : Unable to connect headquarters.</DefaultText>
+    <Lang1>Message : Unable to connect headquarters.</Lang1>
+    <Lang2>Message : ไม่สามารถเชื่อต่อสำนักงานใหญ่ได้ ขณะนี้</Lang2>
+  </Form>
+  <Form>
+    <FormID>10005</FormID>
+    <FormName>Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างรอบขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหารอบขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Search Request Document</DefaultText>
+    <Lang1>Search Request Document</Lang1>
+    <Lang2>ค้นหาเอกสารการขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Delete</DefaultText>
+    <Lang1>Delete</Lang1>
+    <Lang2>ลบเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Print Tranfer Document</DefaultText>
+    <Lang1>Print Tranfer Document</Lang1>
+    <Lang2>พิมพ์เอกสารโอนย้ายสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Print Prepare Document</DefaultText>
+    <Lang1>Print Prepare Document</Lang1>
+    <Lang2>พิมพ์เอกสารเตรียมสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Print Summary Document</DefaultText>
+    <Lang1>Print Summary Document</Lang1>
+    <Lang2>พิมพ์สรุปรอบเตรียมสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Export to excel</DefaultText>
+    <Lang1>Export to csv</Lang1>
+    <Lang2>Export to csv</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Show Report</DefaultText>
+    <Lang1>Show Report</Lang1>
+    <Lang2>แสดงรายงานสรุป</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>1</TextType>
+    <TextID>14</TextID>
+    <DefaultText>Save All Materials.</DefaultText>
+    <Lang1>Save All Materials.</Lang1>
+    <Lang2>บันทึกการปรับปรุงจำนวนวัตถุดิบทั้งหมด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Dalivery Date</DefaultText>
+    <Lang1>Dalivery Date</Lang1>
+    <Lang2>วันที่จัดส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Request Document</DefaultText>
+    <Lang1>Request Document</Lang1>
+    <Lang2>เอกสารขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Matrix View</DefaultText>
+    <Lang1>View Material</Lang1>
+    <Lang2>แสงข้อมูลตามสาขา</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Batch Request Document</DefaultText>
+    <Lang1>Batch Request Document</Lang1>
+    <Lang2>รอบเอกสารขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Status Document</DefaultText>
+    <Lang1>Status Document</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Summary Batch Request Order</DefaultText>
+    <Lang1>Summary Batch Request Order</Lang1>
+    <Lang2>สรุปรอบขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>From date</DefaultText>
+    <Lang1>From date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>2</TextType>
+    <TextID>13</TextID>
+    <DefaultText>To date</DefaultText>
+    <Lang1>To date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึง คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Dalivery Date</DefaultText>
+    <Lang1>Dalivery Date</Lang1>
+    <Lang2>วันที่จัดส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Stock</DefaultText>
+    <Lang1>Stock</Lang1>
+    <Lang2>สต๊อก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Remain</DefaultText>
+    <Lang1>Remain</Lang1>
+    <Lang2>คงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>3</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Status</DefaultText>
+    <Lang1>Status</Lang1>
+    <Lang2>สถานะ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Successfully.</DefaultText>
+    <Lang1>Successfully</Lang1>
+    <Lang2>บันทึกเรียบร้อยแล้ว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10006</FormID>
+    <FormName>Batch Request Document</FormName>
+    <TextType>5</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Error.</DefaultText>
+    <Lang1>Error.</Lang1>
+    <Lang2>เกิดข้อผิดพลาดในการบันทึกข้อมูล</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Receive Transfer Document</DefaultText>
+    <Lang1>Search Receive Transfer Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Document Ref.</DefaultText>
+    <Lang1>Document Referent</Lang1>
+    <Lang2>เลขที่เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>หมายเลขอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Receive Transfer Document</DefaultText>
+    <Lang1>Receive Transfer Document</Lang1>
+    <Lang2>เอกสารรับจากการโอนย้ายสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Receive From Transfer With Cost Document</DefaultText>
+    <Lang1>Receive From Transfer With Cost Document</Lang1>
+    <Lang2>เอกสารรับสินค้าจากการโอนที่มีราคา</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Qty(Request)</DefaultText>
+    <Lang1>Qty(Request)</Lang1>
+    <Lang2>จำนวนขอ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Qty(Tranfer)</DefaultText>
+    <Lang1>Qty(Tranfer)</Lang1>
+    <Lang2>จำนวนโอน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>3</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10007</FormID>
+    <FormName>Receive Transfer Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Not have material in document.</DefaultText>
+    <Lang1>Not have material in document.</Lang1>
+    <Lang2>ไม่พบข้อมูลวัตถุดิบในเอกสาร กรุณาตรวจสอบเอกสารอีกครั้ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Click Back</DefaultText>
+    <Lang1>Click Back</Lang1>
+    <Lang2>กลับหน้าหลัก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>From Date</DefaultText>
+    <Lang1>From Date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To Date</DefaultText>
+    <Lang1>To Date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>VenderGroup</DefaultText>
+    <Lang1>VenderGroup</Lang1>
+    <Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Vender</DefaultText>
+    <Lang1>Vender</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Search purchase document for receive orders.</DefaultText>
+    <Lang1>Search purchase document for receive orders.</Lang1>
+    <Lang2>ค้นหาเอกสารสั่งซื้อ สำหรับสร้างเอกสารรับจากสั่งซื้อ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Ref.</DefaultText>
+    <Lang1>Document Ref.</Lang1>
+    <Lang2>เลขที่เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Vender Name</DefaultText>
+    <Lang1>Vender Name</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10008</FormID>
+    <FormName>Search Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Add multi material</DefaultText>
+    <Lang1>Add multi material</Lang1>
+    <Lang2>เพิ่มวัตถุดิบครั้งละหลายๆ ตัว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Back to main page</DefaultText>
+    <Lang1>Back to main page</Lang1>
+    <Lang2>กลับหน้าหลักเพื่อเลือกวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Reload document</DefaultText>
+    <Lang1>Close Window</Lang1>
+    <Lang2>ปิดหน้าต่างเพื่อรีโหลดเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Search Materials</DefaultText>
+    <Lang1>Search Materials</Lang1>
+    <Lang2>ค้นหาวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search By</DefaultText>
+    <Lang1>Search By</Lang1>
+    <Lang2>ค้นหาตาม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Search</DefaultText>
+    <Lang1>Search</Lang1>
+    <Lang2>คีย์ค้นหา</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Material Group</DefaultText>
+    <Lang1>Material Group</Lang1>
+    <Lang2>กลุ่มวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Material Dept.</DefaultText>
+    <Lang1>Material Dept.</Lang1>
+    <Lang2>หมวดวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Name</DefaultText>
+    <Lang1>Name</Lang1>
+    <Lang2>ชื่อวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Material Code</DefaultText>
+    <Lang1>Material Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Material Name</DefaultText>
+    <Lang1>Material Name</Lang1>
+    <Lang2>วัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty.</DefaultText>
+    <Lang1>Qty.</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>UnitName</DefaultText>
+    <Lang1>UnitName</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10009</FormID>
+    <FormName>Search Materials</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Click Back</DefaultText>
+    <Lang1>Click Back</Lang1>
+    <Lang2>กลับหน้าหลัก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search document</DefaultText>
+    <Lang1>Search document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Add document to batch</DefaultText>
+    <Lang1>Add document to batch</Lang1>
+    <Lang2>เพิ่มเอกสารในรอบโอนย้าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Back to Batch Document</DefaultText>
+    <Lang1>Back to Batch Document</Lang1>
+    <Lang2>กลับหน้ารอบเอกสารโอนย้ายสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Search document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Search document</DefaultText>
+    <Lang1>Search document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>From Date</DefaultText>
+    <Lang1>From Date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Search by</DefaultText>
+    <Lang1>Search by</Lang1>
+    <Lang2>ค้นหาตาม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>To Date</DefaultText>
+    <Lang1>To Date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Search by delivery date</DefaultText>
+    <Lang1>Search by delivery date</Lang1>
+    <Lang2>วันที่จัดส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Search by delivery date</DefaultText>
+    <Lang1>Search by delivery date</Lang1>
+    <Lang2>รวมเอกสารที่ไม่วันที่จัดส่งเข้าร่วม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Search request document.</DefaultText>
+    <Lang1>Search request document.</Lang1>
+    <Lang2>ค้นหาเอกสารการขอสินค้าสำหรับสร้างเอกสารโอนย้าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>From Inventory</DefaultText>
+    <Lang1>From Inventory</Lang1>
+    <Lang2>จากคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Search Tranfer Document.</DefaultText>
+    <Lang1>Search Tranfer Document.</Lang1>
+    <Lang2>ค้นหาเอกสารโอนย้ายสำหรับสร้างเอกสารรับจากโอน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>From Inventory</DefaultText>
+    <Lang1>From Inventory</Lang1>
+    <Lang2>จากคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Document Ref.</DefaultText>
+    <Lang1>Document Ref.</Lang1>
+    <Lang2>เลขที่เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10010</FormID>
+    <FormName>Form search Tranfer and request document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่จัดส่งสินค้า</Lang2>
+  </Form>
+
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document not approve.</DefaultText>
+    <Lang1>Document not approve.</Lang1>
+    <Lang2>เอกสารที่ยังไม่ได้รับการอนุมัติ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document form other branch.</DefaultText>
+    <Lang1>Document form other branch.</Lang1>
+    <Lang2>เอกสารที่มาจากคลังอื่น</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>PO Not Refered Document.</DefaultText>
+    <Lang1>PO Not Refered Document.</Lang1>
+    <Lang2>เอกสารสั่งซื้อที่ยังค้างรับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>From Inventory</DefaultText>
+    <Lang1>From Inventory</Lang1>
+    <Lang2>มาจากคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>New RO document</DefaultText>
+    <Lang1>New RO document</Lang1>
+    <Lang2>สร้างเอกสารรับจากสั่งซื้อ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10011</FormID>
+    <FormName>Default Page</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Click</DefaultText>
+    <Lang1>Click</Lang1>
+    <Lang2>คลิกเพื่อสร้างเอกสารรับสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Search</DefaultText>
+    <Lang1>Search</Lang1>
+    <Lang2>แสดงข้อมูล</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Export to excel</DefaultText>
+    <Lang1>Export to excel</Lang1>
+    <Lang2>Export to excel</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Stock Card</DefaultText>
+    <Lang1>Stock Card</Lang1>
+    <Lang2>การเคลื่อนไหวของวัตถุดิบของแต่หละตัว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Search by</DefaultText>
+    <Lang1>Search by</Lang1>
+    <Lang2>ค้นหาตาม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Material Group</DefaultText>
+    <Lang1>Material Group</Lang1>
+    <Lang2>กลุ่มวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Material Dept</DefaultText>
+    <Lang1>Material Dept</Lang1>
+    <Lang2>หมวดวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Material Code</DefaultText>
+    <Lang1>Material Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>From Date</DefaultText>
+    <Lang1>From Date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>To Date</DefaultText>
+    <Lang1>To Date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>View stock has movement only.</DefaultText>
+    <Lang1>View stock has movement only.</Lang1>
+    <Lang2>แสดงเฉพาะสินค้าที่มีการเคลือนไหว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>View movement material.</DefaultText>
+    <Lang1>View movement material.</Lang1>
+    <Lang2>แสดงความเคลือนไหววัตถุดิบ </Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Document Type</DefaultText>
+    <Lang1>Document Type</Lang1>
+    <Lang2>เลือกชนิดเอกสาร </Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Init Qty.</DefaultText>
+    <Lang1>Init Qty.</Lang1>
+    <Lang2>จำนวนวัตถุดิบตั้งต้น </Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Movement Qty.</DefaultText>
+    <Lang1>Movement Qty.</Lang1>
+    <Lang2>จำนวนที่มีการเคลื่อนไหว </Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>2</TextType>
+    <TextID>14</TextID>
+    <DefaultText>Remain Qty.</DefaultText>
+    <Lang1>Remain Qty.</Lang1>
+    <Lang2>จำนวนคงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Unit Name</DefaultText>
+    <Lang1>Unit Name</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10012</FormID>
+    <FormName>Stock Card</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Remain</DefaultText>
+    <Lang1>Remain</Lang1>
+    <Lang2>คงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Search</DefaultText>
+    <Lang1>Search</Lang1>
+    <Lang2>แสดงข้อมูล</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Export to excel</DefaultText>
+    <Lang1>Export to excel</Lang1>
+    <Lang2>Export to excel</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>In/Out Stock Report</DefaultText>
+    <Lang1>In/Out Stock Report</Lang1>
+    <Lang2>การเคลื่อนไหวของวัตถุดิบของแต่หละตัว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Search by</DefaultText>
+    <Lang1>Search by</Lang1>
+    <Lang2>ค้นหาตาม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Material Group</DefaultText>
+    <Lang1>Material Group</Lang1>
+    <Lang2>กลุ่มวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Material Dept</DefaultText>
+    <Lang1>Material Dept</Lang1>
+    <Lang2>หมวดวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Material Code</DefaultText>
+    <Lang1>Material Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>From Date</DefaultText>
+    <Lang1>From Date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>To Date</DefaultText>
+    <Lang1>To Date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>View stock has movement only.</DefaultText>
+    <Lang1>View stock has movement only.</Lang1>
+    <Lang2>แสดงเฉพาะสินค้าที่มีการเคลือนไหว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>In Qty.</DefaultText>
+    <Lang1>In Qty.</Lang1>
+    <Lang2>จำนวนรับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Out Qty.</DefaultText>
+    <Lang1>Out Qty.</Lang1>
+    <Lang2>จำนวนจ่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10013</FormID>
+    <FormName>In/Out Stock Report</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Remain</DefaultText>
+    <Lang1>Remain</Lang1>
+    <Lang2>คงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Template Document</DefaultText>
+    <Lang1>Search Template Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Click Reload</DefaultText>
+    <Lang1>Click Reload</Lang1>
+    <Lang2>Click Reload</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText> Create New Document Template</DefaultText>
+    <Lang1> Back To Template</Lang1>
+    <Lang2>กลับหน้าสร้างเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>1</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Import File Supplier MaterialCode</DefaultText>
+    <Lang1>Import File Supplier MaterialCode</Lang1>
+    <Lang2>นำข้อมูลเข้าระบบจากไฟล์ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Template.</DefaultText>
+    <Lang1>Document Template.</Lang1>
+    <Lang2>เอกสารเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Template Code</DefaultText>
+    <Lang1>Template Code</Lang1>
+    <Lang2>รหัสเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Template Name</DefaultText>
+    <Lang1>Template Name</Lang1>
+    <Lang2>ชื่อเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Document Template.</DefaultText>
+    <Lang1>Document Template.</Lang1>
+    <Lang2>เอกสารเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Document Type</DefaultText>
+    <Lang1>Document Type</Lang1>
+    <Lang2>ประเภทเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>VenderGroup</DefaultText>
+    <Lang1>VenderGroup</Lang1>
+    <Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Vender</DefaultText>
+    <Lang1>Vender</Lang1>
+    <Lang2>ผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText>From Date</DefaultText>
+    <Lang1>From Date</Lang1>
+    <Lang2>วันที่เริ่มต้น</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>11</TextID>
+    <DefaultText>To Date</DefaultText>
+    <Lang1>To Date</Lang1>
+    <Lang2>วันที่สิ้นสุด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>12</TextID>
+    <DefaultText>ApplyToShop</DefaultText>
+    <Lang1>ApplyToShop</Lang1>
+    <Lang2>ใช้กับสาขา</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลังสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>14</TextID>
+    <DefaultText>First Row.</DefaultText>
+    <Lang1>First Row.</Lang1>
+    <Lang2>เพิ่มที่บรรทัดแรก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>15</TextID>
+    <DefaultText>Last Row.</DefaultText>
+    <Lang1>Last Row.</Lang1>
+    <Lang2>เพิ่มที่บรรทัดสุดท้าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>2</TextType>
+    <TextID>16</TextID>
+    <DefaultText>Between Row </DefaultText>
+    <Lang1>Between Row </Lang1>
+    <Lang2>เพิ่มระหว่างบรรทัดที่ </Lang2>
+  </Form>
+   <Form>
+    <FormID>10014</FormID>
+    <FormName>Direct Receive Order</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Price/Unit</DefaultText>
+    <Lang1>Price/Unit</Lang1>
+    <Lang2>ราคา/หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Discount</DefaultText>
+    <Lang1>Discount</Lang1>
+    <Lang2>ส่วนลด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>VAT</DefaultText>
+    <Lang1>VAT</Lang1>
+    <Lang2>VAT</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Total</DefaultText>
+    <Lang1>Total</Lang1>
+    <Lang2>รวม</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Order</DefaultText>
+    <Lang1>Order</Lang1>
+    <Lang2>จัดเรียง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>DeliveryCost</DefaultText>
+    <Lang1>DeliveryCost</Lang1>
+    <Lang2>ค่าขนส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>11</TextID>
+    <DefaultText>SupplierCode</DefaultText>
+    <Lang1>SupplierCode</Lang1>
+    <Lang2>รหัสวัตถุดิบจากผู้จัดจำหน่าย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>3</TextType>
+    <TextID>12</TextID>
+    <DefaultText>DeliveryCost2</DefaultText>
+    <Lang1>DeliveryCost2</Lang1>
+    <Lang2>ค่าขนส่งต่างจังหวัด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10014</FormID>
+    <FormName>Template Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างรอบเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Prefinish Document</DefaultText>
+    <Lang1>Search Prefinish Document</Lang1>
+    <Lang2>ค้นหารอบเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Summary Document</DefaultText>
+    <Lang1>Summary Document</Lang1>
+    <Lang2>สรุปรอบเอกสารแปรรูปสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Add New Document</DefaultText>
+    <Lang1>Add New Document</Lang1>
+    <Lang2>เพิ่มเอกสารเบิกสินค้าเพื่อแปรรูป</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Summary Document</DefaultText>
+    <Lang1>Summary Document</Lang1>
+    <Lang2>สรุปเอกสารเบิกสินค้าเพื่อแปรรูป</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Add New Document</DefaultText>
+    <Lang1>Add New Document</Lang1>
+    <Lang2>เพิ่มเอกสารโอนคืนคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Summary Document</DefaultText>
+    <Lang1>Summary Document</Lang1>
+    <Lang2>สรุปเอกสารโอนคืนคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>12</TextID>
+    <DefaultText>Add New Document</DefaultText>
+    <Lang1>Add New Document</Lang1>
+    <Lang2>เพิ่มเอกสารแปรรูปสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>1</TextType>
+    <TextID>13</TextID>
+    <DefaultText>Summary Document</DefaultText>
+    <Lang1>Summary Document</Lang1>
+    <Lang2>สรุปเอกสารแปรรูปสินค้า</Lang2>
+  </Form>
+
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Reduce Material For Prefinish Document</DefaultText>
+    <Lang1>Reduce Material For Prefinish Document</Lang1>
+    <Lang2>เอกสารเบิกเพื่อแปรรูปสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Add Material For Prefinish Document</DefaultText>
+    <Lang1>Add Material For Prefinish Document</Lang1>
+    <Lang2>เอกสารโอนคืนคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Prefinish Document</DefaultText>
+    <Lang1>Prefinish Document</Lang1>
+    <Lang2>เอกสารแปรรูปสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Stock</DefaultText>
+    <Lang1>Stock</Lang1>
+    <Lang2>สต๊อก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>3</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Remain</DefaultText>
+    <Lang1>Remain</Lang1>
+    <Lang2>คงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Successfully.</DefaultText>
+    <Lang1>Successfully</Lang1>
+    <Lang2>บันทึกเรียบร้อยแล้ว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10015</FormID>
+    <FormName>Prefinish Document</FormName>
+    <TextType>5</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Error.</DefaultText>
+    <Lang1>Error.</Lang1>
+    <Lang2>เกิดข้อผิดพลาดในการบันทึกข้อมูล</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Back to main page</DefaultText>
+    <Lang1>Back to main page</Lang1>
+    <Lang2>กลับหน้าหลัก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Click Reload</DefaultText>
+    <Lang1>Click Reload</Lang1>
+    <Lang2>Click Reload</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Template</DefaultText>
+    <Lang1>Template</Lang1>
+    <Lang2>เอกสารเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Request Document</DefaultText>
+    <Lang1>Request Document</Lang1>
+    <Lang2>เอกสารขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Qty</DefaultText>
+    <Lang1>Qty</Lang1>
+    <Lang2>จำนวน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วย</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Standard Qty.</DefaultText>
+    <Lang1>Standard Qty.</Lang1>
+    <Lang2>จำนวนมาตรฐาน</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Actual Qty.</DefaultText>
+    <Lang1>Actual Qty.</Lang1>
+    <Lang2>จำนวนที่ให้จริง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10016</FormID>
+    <FormName>AddAndReduceMaterialForPrefinishDocument</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Message : Unable to connect headquarters.</DefaultText>
+    <Lang1>Message : Unable to connect headquarters.</Lang1>
+    <Lang2>Message : ไม่สามารถเชื่อต่อสำนักงานใหญ่ได้ ขณะนี้</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>New Document</DefaultText>
+    <Lang1>New Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search Document</DefaultText>
+    <Lang1>Search Document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Save Document</DefaultText>
+    <Lang1>Save Document</Lang1>
+    <Lang2>บันทึกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเลิกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Print Document</DefaultText>
+    <Lang1>Print Document</Lang1>
+    <Lang2>พิมพ์เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Save</DefaultText>
+    <Lang1>Save</Lang1>
+    <Lang2>บันทึก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Cancel</DefaultText>
+    <Lang1>Cancel</Lang1>
+    <Lang2>ยกเลิก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Del</DefaultText>
+    <Lang1>Del</Lang1>
+    <Lang2>ลบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>10</TextID>
+    <DefaultText>Click Reload</DefaultText>
+    <Lang1>Click Reload</Lang1>
+    <Lang2>Click Reload</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>1</TextType>
+    <TextID>11</TextID>
+    <DefaultText>Template</DefaultText>
+    <Lang1>Template</Lang1>
+    <Lang2>เอกสารเทมเพลท</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Inventory</DefaultText>
+    <Lang1>Inventory</Lang1>
+    <Lang2>คลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To Inventory</DefaultText>
+    <Lang1>To Inventory</Lang1>
+    <Lang2>ถึงคลัง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Date</DefaultText>
+    <Lang1>Date</Lang1>
+    <Lang2>วันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Invoice Ref.</DefaultText>
+    <Lang1>Invoice Ref.</Lang1>
+    <Lang2>เอกสารอ้างอิง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Delivery Date</DefaultText>
+    <Lang1>Delivery Date</Lang1>
+    <Lang2>วันที่ส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>9</TextID>
+    <DefaultText>Count Stock And Request Order.</DefaultText>
+    <Lang1>Count Stock And Request Order.</Lang1>
+    <Lang2>ใบขอสินค้าสำนักงานใหญ่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>2</TextType>
+    <TextID>10</TextID>
+    <DefaultText> The raw materials are not available in the system.</DefaultText>
+    <Lang1> The raw materials are not available in the system.</Lang1>
+    <Lang2>มีวัตถุดิบที่ไม่มี่ในระบบ กรุณาตรวจสอบไฟล์อีกครับ</Lang2>
+  </Form>
+  
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>MinStock</DefaultText>
+    <Lang1>MinStock</Lang1>
+    <Lang2>สต๊อกต่ำสุด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>MaxStock</DefaultText>
+    <Lang1>MaxStock</Lang1>
+    <Lang2>สต๊อกสูงสุด</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Count</DefaultText>
+    <Lang1>Count</Lang1>
+    <Lang2>จำนวนนับจริง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Request</DefaultText>
+    <Lang1>Request</Lang1>
+    <Lang2>จำนวนขอสินค้า</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>3</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Do you want to save document?</DefaultText>
+    <Lang1>Do you want to save document?</Lang1>
+    <Lang2>คุณต้องการบันทึกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Do you want to approve document?</DefaultText>
+    <Lang1>Do you want to approve document?</Lang1>
+    <Lang2>คุณต้องการอนุมัติเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Do you want to cancel document?</DefaultText>
+    <Lang1>Do you want to cancel document?</Lang1>
+    <Lang2>คุณต้องการยกเลิกเอกสารนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Do you want to delete item?</DefaultText>
+    <Lang1>Do you want to delete item?</Lang1>
+    <Lang2>คุณต้องการลบรายการนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Message : Unable to connect headquarters.</DefaultText>
+    <Lang1>Message : Unable to connect headquarters.</Lang1>
+    <Lang2>Message : ไม่สามารถเชื่อต่อสำนักงานใหญ่ได้ ขณะนี้</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Do you want to upload this file. To adjust the stock?</DefaultText>
+    <Lang1>Do you want to upload this file. To adjust the stock?</Lang1>
+    <Lang2>คุณต้องการอับโหลดไฟล์นี้ เพื่อปรับสต๊อก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>7</TextID>
+    <DefaultText>Do you want to upload this file. To adjust the amount of order at the head office?</DefaultText>
+    <Lang1>Do you want to upload this file. To adjust the amount of order at the head office?</Lang1>
+    <Lang2>คุณต้องการอับโหลดไฟล์นี้ เพื่อปรับจำนวนขอสินค้าที่สำนักงานใหญ่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10017</FormID>
+    <FormName>Count Stock And Request Order.</FormName>
+    <TextType>5</TextType>
+    <TextID>8</TextID>
+    <DefaultText>Do you want to save the amount?.</DefaultText>
+    <Lang1>Do you want to save the amount?.</Lang1>
+    <Lang2>คุณต้องการบันทึกจำนวนนี้ใช้หรือไม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Create document the transfer of the documents requested.</DefaultText>
+    <Lang1>Create document the transfer of the documents requested.</Lang1>
+    <Lang2>สร้างเอกสารโอนย้ายจากใบขอสินค้านี้</Lang2>
+  </Form>
+   <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search the document</DefaultText>
+    <Lang1>Search the document</Lang1>
+    <Lang2>ค้นหาเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Create document the transfer of the documents requested.</DefaultText>
+    <Lang1>Create document the transfer with cost of the documents requested.</Lang1>
+    <Lang2>สร้างเอกสารโอนย้ายแบบมีราคาจากใบขอสินค้านี้</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Add to documents in preparation.</DefaultText>
+    <Lang1>Add to documents in preparation.t</Lang1>
+    <Lang2>เพิ่มเอกสารขอสินค้าในรอบเตรียมด้านล้างนี้ที่มีอยู่แล้ว</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Status</DefaultText>
+    <Lang1>Document Status</Lang1>
+    <Lang2>สถานะเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>From date</DefaultText>
+    <Lang1>From date</Lang1>
+    <Lang2>จากวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>To date</DefaultText>
+    <Lang1>To date</Lang1>
+    <Lang2>ถึงวันที่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>2</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Document Number</DefaultText>
+    <Lang1>Document Number</Lang1>
+    <Lang2>เลขที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Document Date</DefaultText>
+    <Lang1>Document Date</Lang1>
+    <Lang2>วันที่เอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Status</DefaultText>
+    <Lang1>Status</Lang1>
+    <Lang2>สถานะ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Dalivery Date</DefaultText>
+    <Lang1>Dalivery Date</Lang1>
+    <Lang2>วันที่จัดส่ง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10018</FormID>
+    <FormName>Select a document to transfer or create prepare transfer documents.</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Note</DefaultText>
+    <Lang1>Note</Lang1>
+    <Lang2>หมายเหตุ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Create Document</DefaultText>
+    <Lang1>Create Document</Lang1>
+    <Lang2>สร้างเอกสารใหม่</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Search History Adjust Stock</DefaultText>
+    <Lang1>Search History Adjust Stock</Lang1>
+    <Lang2>ค้นหาประวัติการปรับสต๊อก</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>3</TextID>
+    <DefaultText>DownloadFileStockOnhand(POS->CN50)</DefaultText>
+    <Lang1>DownloadFileStockOnhand(POS->CN50)</Lang1>
+    <Lang2>DownloadFileStockOnhand(POS->CN50)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>4</TextID>
+    <DefaultText>UpdateFileStock(CN50->POS)</DefaultText>
+    <Lang1>UpdateFileStock(CN50->POS)</Lang1>
+    <Lang2>UpdateFileStock(CN50->POS)</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Approve Document</DefaultText>
+    <Lang1>Approve Document</Lang1>
+    <Lang2>อนุมัติเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Cancel Document</DefaultText>
+    <Lang1>Cancel Document</Lang1>
+    <Lang2>ยกเอกสาร</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>1</TextType>
+    <TextID>7</TextID>
+    <DefaultText>ConfigStockCount</DefaultText>
+    <Lang1>ConfigStockCount</Lang1>
+    <Lang2>ตั้งค่านับสต๊อกจากไฟล์</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>2</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Audit Stock Count</DefaultText>
+    <Lang1>Audit Stock Count</Lang1>
+    <Lang2>Audit Stock Count</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>2</TextType>
+    <TextID>2</TextID>
+    <DefaultText>DocumentStatus : </DefaultText>
+    <Lang1>DocumentStatus : </Lang1>
+    <Lang2>สถานะเอกสาร : </Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>2</TextType>
+    <TextID>3</TextID>
+    <DefaultText>DocumentDate : </DefaultText>
+    <Lang1>DocumentDate : </Lang1>
+    <Lang2>วันที่เอกสาร : </Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>2</TextType>
+    <TextID>4</TextID>
+    <DefaultText>DocumentNumber : </DefaultText>
+    <Lang1>DocumentNumber : </Lang1>
+    <Lang2>หมายเลขเอกสาร : </Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>1</TextID>
+    <DefaultText>Code</DefaultText>
+    <Lang1>Code</Lang1>
+    <Lang2>รหัสวัตถุดิบ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>2</TextID>
+    <DefaultText>Item</DefaultText>
+    <Lang1>Item</Lang1>
+    <Lang2>รายการ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>3</TextID>
+    <DefaultText>Balance</DefaultText>
+    <Lang1>Balance</Lang1>
+    <Lang2>คงเหลือ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>4</TextID>
+    <DefaultText>Count</DefaultText>
+    <Lang1>Count</Lang1>
+    <Lang2>นับ</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>5</TextID>
+    <DefaultText>Diff</DefaultText>
+    <Lang1>Diff</Lang1>
+    <Lang2>ผลต่าง</Lang2>
+  </Form>
+  <Form>
+    <FormID>10019</FormID>
+    <FormName>Adjust Stock Count</FormName>
+    <TextType>3</TextType>
+    <TextID>6</TextID>
+    <DefaultText>Unit</DefaultText>
+    <Lang1>Unit</Lang1>
+    <Lang2>หน่วยนับ</Lang2>
+  </Form>
+ </LanguageData>

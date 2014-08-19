@@ -1,0 +1,2999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LanguageData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Print Report</DefaultText>
+		<Lang1>Print Report</Lang1>
+		<Lang2>พิมพ์รายงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Export to Excel</DefaultText>
+		<Lang1>Export to Excel</Lang1>
+		<Lang2>บันทึกข้อมูลเป็น Excel</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Create Report Date:</DefaultText>
+		<Lang1>Create Report Date:</Lang1>
+		<Lang2>วันที่สร้างรายงาน:</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Generate Report</DefaultText>
+		<Lang1>Generate Report</Lang1>
+		<Lang2>สร้างรายงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Day</DefaultText>
+		<Lang1>Day</Lang1>
+		<Lang2>วัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Month</DefaultText>
+		<Lang1>Month</Lang1>
+		<Lang2>เดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Year</DefaultText>
+		<Lang1>Year</Lang1>
+		<Lang2>ปี</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>January</DefaultText>
+		<Lang1>February</Lang1>
+		<Lang2>มกราคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Febauary</DefaultText>
+		<Lang1>Febauary</Lang1>
+		<Lang2>กุมภาพันธ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>March</DefaultText>
+		<Lang1>March</Lang1>
+		<Lang2>มีนาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>April</DefaultText>
+		<Lang1>April</Lang1>
+		<Lang2>เมษายน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>May</DefaultText>
+		<Lang1>May</Lang1>
+		<Lang2>พฤษภาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>June</DefaultText>
+		<Lang1>June</Lang1>
+		<Lang2>มิถุนายน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>July</DefaultText>
+		<Lang1>July</Lang1>
+		<Lang2>กรกฎาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>August</DefaultText>
+		<Lang1>August</Lang1>
+		<Lang2>สิงหาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>September</DefaultText>
+		<Lang1>September</Lang1>
+		<Lang2>กันยายน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>October</DefaultText>
+		<Lang1>October</Lang1>
+		<Lang2>ตุลาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>17</TextID>
+		<DefaultText>November</DefaultText>
+		<Lang1>November</Lang1>
+		<Lang2>พฤศจิกายน</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>18</TextID>
+		<DefaultText>December</DefaultText>
+		<Lang1>December</Lang1>
+		<Lang2>ธันวาคม</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Invalid date format</DefaultText>
+		<Lang1>Invalid date format</Lang1>
+		<Lang2>เลือกวันที่ไม่ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Close Windows</DefaultText>
+		<Lang1>Close Windows</Lang1>
+		<Lang2>ปิดหน้าต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>22</TextID>
+		<DefaultText>To</DefaultText>
+		<Lang1>To</Lang1>
+		<Lang2>ถึง</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>23</TextID>
+		<DefaultText>All Shops</DefaultText>
+		<Lang1>All Shops</Lang1>
+		<Lang2>ทุกสาขา</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Hour</DefaultText>
+		<Lang1>Hour</Lang1>
+		<Lang2>ชั่วโมง</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>25</TextID>
+		<DefaultText>Minute</DefaultText>
+		<Lang1>Minute</Lang1>
+		<Lang2>นาที</Lang2>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>26</TextID>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>27</TextID>
+	</Form>
+	<Form>
+		<FormID>999</FormID>
+		<FormName>Default</FormName>
+		<TextType>2</TextType>
+		<TextID>28</TextID>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Preferences</DefaultText>
+		<Lang1>Preferences</Lang1>
+		<Lang2>กำหนดตัวแปรของระบบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Year Type</DefaultText>
+		<Lang1>Year Type</Lang1>
+		<Lang2>การแสดงค่าของปี</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Discount Rounding</DefaultText>
+		<Lang1>Discount Rounding</Lang1>
+		<Lang2>กำหนดการปัดเศษส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Bill Rounding</DefaultText>
+		<Lang1>Bill Rounding</Lang1>
+		<Lang2>กำหนดการปัดเศษของบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Product Price Rounding</DefaultText>
+		<Lang1>Product Price Rounding</Lang1>
+		<Lang2>กำหนดการปัดเศษของราคาสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Service Charge Rounding</DefaultText>
+		<Lang1>Service Charge Rounding</Lang1>
+		<Lang2>กำหนดการปัดเศษของ service charge</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Remote Image Folder</DefaultText>
+		<Lang1>Remote Image Folder</Lang1>
+		<Lang2>กำหนด folder ของรูปภาพ</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>SMTP Mail Server</DefaultText>
+		<Lang1>SMTP Mail Server</Lang1>
+		<Lang2>SMTP Mail Server</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Contact Email Address</DefaultText>
+		<Lang1>Contact Email Address</Lang1>
+		<Lang2>Contact Email Address</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Running Member Code Type</DefaultText>
+		<Lang1>Running Member Code Type</Lang1>
+		<Lang2>การ running รหัสสมาชิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Member Code Digit</DefaultText>
+		<Lang1>Member Code Digit</Lang1>
+		<Lang2>จำนวนหลักของรหัสสมาชิกกรณีตั้งค่า running</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Running Member Code Resetting</DefaultText>
+		<Lang1>Running Member Code Resetting</Lang1>
+		<Lang2>การ reset ค่า running</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Member Code Year</DefaultText>
+		<Lang1>Member Code Year</Lang1>
+		<Lang2>รูปแบบปีที่แสดงของรหัสสมาชิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>13</TextID>
+		<DefaultText>After paid, go back to</DefaultText>
+		<Lang1>After paid, go back to</Lang1>
+		<Lang2>หลังจากจ่ายเงินแล้วให้ระบบกลับไปยัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>14</TextID>
+		<DefaultText>A.D.</DefaultText>
+		<Lang1>A.D.</Lang1>
+		<Lang2>ค.ศ.</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>15</TextID>
+		<DefaultText>B.E.</DefaultText>
+		<Lang1>B.E.</Lang1>
+		<Lang2>พ.ศ.</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Print Package Detail in Receipt</DefaultText>
+		<Lang1>Print Package Detail in Receipt</Lang1>
+		<Lang2>พิมพ์รายละเอียด package ที่บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Currency Symbol</DefaultText>
+		<Lang1>Currency Symbol</Lang1>
+		<Lang2>Currency Symbol</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Currency Code</DefaultText>
+		<Lang1>Currency Code</Lang1>
+		<Lang2>Currency Code</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Currency Name</DefaultText>
+		<Lang1>Currency Name</Lang1>
+		<Lang2>Currency Name</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Currency Format</DefaultText>
+		<Lang1>Currency Format</Lang1>
+		<Lang2>Currency Format</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Date Format</DefaultText>
+		<Lang1>Date Format</Lang1>
+		<Lang2>Date Format</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Time Format</DefaultText>
+		<Lang1>Time Format</Lang1>
+		<Lang2>Time Format</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Quantity Format</DefaultText>
+		<Lang1>Quantity Format</Lang1>
+		<Lang2>Quantity Format</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>24</TextID>
+		<DefaultText>A.D.</DefaultText>
+		<Lang1>A.D.</Lang1>
+		<Lang2>ค.ศ.</Lang2>
+	</Form>
+	<Form>
+		<FormID>1</FormID>
+		<FormName>Preferences:main.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>25</TextID>
+		<DefaultText>B.E.</DefaultText>
+		<Lang1>B.E.</Lang1>
+		<Lang2>พ.ศ.</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Manage Material Data</DefaultText>
+		<Lang1>Manage Material Data</Lang1>
+		<Lang2>จัดหมวดหมู่ของวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Material Group</DefaultText>
+		<Lang1>Material Group</Lang1>
+		<Lang2>กลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material Department</DefaultText>
+		<Lang1>Material Department</Lang1>
+		<Lang2>หมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Materials</DefaultText>
+		<Lang1>Materials</Lang1>
+		<Lang2>ข้อมูลวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Keyword(s):</DefaultText>
+		<Lang1>Keyword(s):</Lang1>
+		<Lang2>Keyword(s):</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Search</DefaultText>
+		<Lang1>Search</Lang1>
+		<Lang2>ค้นหา</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Group Code</DefaultText>
+		<Lang1>Group Code</Lang1>
+		<Lang2>รหัสกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Group Name</DefaultText>
+		<Lang1>Group Name</Lang1>
+		<Lang2>รหัสกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Add Material Group</DefaultText>
+		<Lang1>Add Material Group</Lang1>
+		<Lang2>เพิ่มกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Delete</DefaultText>
+		<Lang1>Delete</Lang1>
+		<Lang2>ลบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Department Code</DefaultText>
+		<Lang1>Department Code</Lang1>
+		<Lang2>รหัสหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Department Name</DefaultText>
+		<Lang1>Department Name</Lang1>
+		<Lang2>ชื่อหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Add Material Department</DefaultText>
+		<Lang1>Add Material Department</Lang1>
+		<Lang2>เพิ่มหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Material Code</DefaultText>
+		<Lang1>Material Code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Material Name</DefaultText>
+		<Lang1>Material Name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Check Recipe</DefaultText>
+		<Lang1>Check Recipe</Lang1>
+		<Lang2>ตรวจสอบเมนูที่ใช้วัตถดิบนี้</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Set Invent Unit</DefaultText>
+		<Lang1>Set Invent Unit</Lang1>
+		<Lang2>กำหนดหน่วยกับเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Mapping Unit</DefaultText>
+		<Lang1>Mapping Unit</Lang1>
+		<Lang2>Mapping Unit</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Add Material</DefaultText>
+		<Lang1>Add Material</Lang1>
+		<Lang2>เพิ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>21</TextID>
+		<DefaultText>-- Select Material Group --</DefaultText>
+		<Lang1>-- Select Material Group --</Lang1>
+		<Lang2>-- เลือกกลุ่มวัตถุดิบ --</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>22</TextID>
+		<DefaultText>-- Select Material Dept --</DefaultText>
+		<Lang1>-- Select Material Dept --</Lang1>
+		<Lang2>-- เลือกหมวดวัตถุดิบ --</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Set Recipe</DefaultText>
+		<Lang1>Set Recipe</Lang1>
+		<Lang2>กำหนดสูตร</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Select</DefaultText>
+		<Lang1>Select</Lang1>
+		<Lang2>เลือก</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>25</TextID>
+		<DefaultText>Are you sure you want to delete</DefaultText>
+		<Lang1>Are you sure you want to delete</Lang1>
+		<Lang2>คุณแน่ใจหรือไม่ที่จะลบรายการ</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>26</TextID>
+		<DefaultText>?</DefaultText>
+		<Lang1>?</Lang1>
+		<Lang2>ออกจากระบบ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>2</FormID>
+		<FormName>MaterialData</FormName>
+		<TextType>1</TextType>
+		<TextID>27</TextID>
+		<DefaultText>Select Material</DefaultText>
+		<Lang1>Select Material</Lang1>
+		<Lang2>เลือกวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Manage Material Group Data</DefaultText>
+		<Lang1>Manage Material Group Data</Lang1>
+		<Lang2>ข้อมูลกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Add Material Group</DefaultText>
+		<Lang1>Add Material Group</Lang1>
+		<Lang2>เพิ่มกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material Group Code</DefaultText>
+		<Lang1>Material Group Code</Lang1>
+		<Lang2>รหัสกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Material Group Name</DefaultText>
+		<Lang1>Material Group Name</Lang1>
+		<Lang2>ชื่อกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Material Group Type</DefaultText>
+		<Lang1>Material Group Type</Lang1>
+		<Lang2>ชนิดกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Add Data</DefaultText>
+		<Lang1>Add Data</Lang1>
+		<Lang2>เพิ่มข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Update Data</DefaultText>
+		<Lang1>Update Data</Lang1>
+		<Lang2>ปรับปรุงข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Material Group Code must be filled before submission.</DefaultText>
+		<Lang1>Material Group Code must be filled before submission.</Lang1>
+		<Lang2>กรุณาใส่ข้อมูลของรหัสกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Material Group Name must be filled before submission.</DefaultText>
+		<Lang1>Material Group Name must be filled before submission.</Lang1>
+		<Lang2>กรุณาใส่ข้อมูลของชื่อกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Material Group Code already exist in database.</DefaultText>
+		<Lang1>Material Group Code already exist in database.</Lang1>
+		<Lang2>รหัสกลุ่มวัตถุดิบมีในฐานข้อมูลแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Edit Material Group</DefaultText>
+		<Lang1>Edit Material Group</Lang1>
+		<Lang2>แก้ไขข้อมูลกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Material Group</DefaultText>
+		<Lang1>Material Group</Lang1>
+		<Lang2>กลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Material Department Code</DefaultText>
+		<Lang1>Material Department Code</Lang1>
+		<Lang2>รหัสหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Material Department Name</DefaultText>
+		<Lang1>Material Department Name</Lang1>
+		<Lang2>ชื่อหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Material Department Code must be filled before submission.</DefaultText>
+		<Lang1>Material Department Code must be filled before submission.</Lang1>
+		<Lang2>กรุณาใส่ข้อมูลรหัสหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Material Department Name must be filled before submission.</DefaultText>
+		<Lang1>Material Department Name must be filled before submission.</Lang1>
+		<Lang2>กรุณาใส่ข้อมูลชื่อหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Manage Material Department Data</DefaultText>
+		<Lang1>Manage Material Department Data</Lang1>
+		<Lang2>ข้อมูลหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Add Material Department</DefaultText>
+		<Lang1>Add Material Department</Lang1>
+		<Lang2>เพิ่มหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Edit Material Department</DefaultText>
+		<Lang1>Edit Material Department</Lang1>
+		<Lang2>แก้ไขข้อมูลหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Material Department Code already exist in database.</DefaultText>
+		<Lang1>Material Department Code already exist in database.</Lang1>
+		<Lang2>รหัสหมวดวัตถุดิบมีในฐานข้อมูลแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Please select material group before submission.</DefaultText>
+		<Lang1>Please select material group before submission.</Lang1>
+		<Lang2>กรุณาเลื่อกกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>3</FormID>
+		<FormName>MaterialGroup</FormName>
+		<TextType>1</TextType>
+		<TextID>23</TextID>
+		<DefaultText>-- Select Material Group --</DefaultText>
+		<Lang1>-- Select Material Group --</Lang1>
+		<Lang2>-- กรุณาเลือกกลุ่มวัตถุดิบ --</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Manage Credit Card Type</DefaultText>
+		<Lang1>Manage Credit Card Type</Lang1>
+		<Lang2>กำหนดชนิดบัตรเครดิต</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Add Credit Card Type</DefaultText>
+		<Lang1>Add Credit Card Type</Lang1>
+		<Lang2>เพิ่มชนิดบัตรเครดิต</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Credit Card Type Name</DefaultText>
+		<Lang1>Credit Card Type Name</Lang1>
+		<Lang2>ชื่อชนิดบัตรเครดิต</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Delete</DefaultText>
+		<Lang1>Delete</Lang1>
+		<Lang2>ลบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Are you sure you want to delete</DefaultText>
+		<Lang1>Are you sure you want to delete</Lang1>
+		<Lang2>คุณแน่ใจหรือไม่ที่จะลบรายการ</Lang2>
+	</Form>
+	<Form>
+		<FormID>4</FormID>
+		<FormName>CreditCardType.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>?</DefaultText>
+		<Lang1>?</Lang1>
+		<Lang2>?</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Company Profile</DefaultText>
+		<Lang1>Company Profile</Lang1>
+		<Lang2>ข้อมูลบริษัท</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Company Name</DefaultText>
+		<Lang1>Company Name</Lang1>
+		<Lang2>ชื่อบริษัท</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Address1</DefaultText>
+		<Lang1>Address1</Lang1>
+		<Lang2>ที่อยู่ 1</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Address2</DefaultText>
+		<Lang1>Address2</Lang1>
+		<Lang2>ที่อยู่ 2</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>City</DefaultText>
+		<Lang1>City</Lang1>
+		<Lang2>อำเภอ</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Province</DefaultText>
+		<Lang1>Province</Lang1>
+		<Lang2>จังหวัด</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Zipcode</DefaultText>
+		<Lang1>Zipcode</Lang1>
+		<Lang2>รหัสไปรษณีย์</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Telephone</DefaultText>
+		<Lang1>Telephone</Lang1>
+		<Lang2>โทรศัพท์</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Fax</DefaultText>
+		<Lang1>Fax</Lang1>
+		<Lang2>โทรสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Tax ID</DefaultText>
+		<Lang1>Tax ID</Lang1>
+		<Lang2>เลขประจำตัวผู้เสียภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Register ID</DefaultText>
+		<Lang1>Register ID</Lang1>
+		<Lang2>เลขทะเบียนการค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>VAT</DefaultText>
+		<Lang1>VAT</Lang1>
+		<Lang2>ภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Update Data</DefaultText>
+		<Lang1>Update Data</Lang1>
+		<Lang2>ปรับปรุงข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>5</FormID>
+		<FormName>Company_Profile.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>VAT must be numeric number.</DefaultText>
+		<Lang1>VAT must be numeric number.</Lang1>
+		<Lang2>ภาษีต้องเป็นตัวเลข</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Sale Report</DefaultText>
+		<Lang1>Sale Report</Lang1>
+		<Lang2>รายงานการขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Reported By Bill</DefaultText>
+		<Lang1>Reported By Bill</Lang1>
+		<Lang2>แสดงตามบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Reported By Products</DefaultText>
+		<Lang1>Reported By Products</Lang1>
+		<Lang2>แสดงตามสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Order By Product Code</DefaultText>
+		<Lang1>Order By Product Code</Lang1>
+		<Lang2>เรียงตามรหัสสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Order By Product Name</DefaultText>
+		<Lang1>Order By Product Name</Lang1>
+		<Lang2>เรียงตามชื่อสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Group By Day of Week</DefaultText>
+		<Lang1>Group By Day of Week</Lang1>
+		<Lang2>แสดงตามรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Group By Hourly</DefaultText>
+		<Lang1>Group By Hourly</Lang1>
+		<Lang2>แสดงตามรายชั่วโมง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Show Receipt Details</DefaultText>
+		<Lang1>Show Receipt Details</Lang1>
+		<Lang2>แสดงรายละเอียดบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Display Graph for Monthly Report and Date Range Report</DefaultText>
+		<Lang1>Display Graph for Monthly Report and Date Range Report</Lang1>
+		<Lang2>แสดงกราฟ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Line Chart</DefaultText>
+		<Lang1>Line Chart</Lang1>
+		<Lang2>กราฟเส้น</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Column Chart</DefaultText>
+		<Lang1>Column Chart</Lang1>
+		<Lang2>กราฟแท่ง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Generate Report</DefaultText>
+		<Lang1>Generate Report</Lang1>
+		<Lang2>สร้างรายงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Sale Report By Bill of</DefaultText>
+		<Lang1>Sale Report By Bill of</Lang1>
+		<Lang2>รายงานการขายตามบิลของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Sale Report By Month of</DefaultText>
+		<Lang1>Sale Report By Month of</Lang1>
+		<Lang2>รายงานการขายตามเดือนของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Sale Report By Year of</DefaultText>
+		<Lang1>Sale Report By Year of</Lang1>
+		<Lang2>รายงานการขายตามปีของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Sale Report By Date of</DefaultText>
+		<Lang1>Sale Report By Date of</Lang1>
+		<Lang2>รายงานการขายตามช่วงวันของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Sale Report By Product of</DefaultText>
+		<Lang1>Sale Report By Product of</Lang1>
+		<Lang2>รายงานการขายตามสินค้าของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Sale Report By Day of Week of</DefaultText>
+		<Lang1>Sale Report By Day of Week of</Lang1>
+		<Lang2>รายงานการขายตามสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Sale Report By Hourly of</DefaultText>
+		<Lang1>Sale Report By Hourly of</Lang1>
+		<Lang2>รายงานการขายตามรายชั่วโมงของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Receipt #</DefaultText>
+		<Lang1>Receipt #</Lang1>
+		<Lang2>เลขที่บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Table</DefaultText>
+		<Lang1>Table</Lang1>
+		<Lang2>โต๊ะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>20</TextID>
+		<DefaultText># Bills</DefaultText>
+		<Lang1># Bills</Lang1>
+		<Lang2># บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Guest</DefaultText>
+		<Lang1>Guest</Lang1>
+		<Lang2># ลูกค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Total Price</DefaultText>
+		<Lang1>Total Price</Lang1>
+		<Lang2>ราคาขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Disc</DefaultText>
+		<Lang1>Disc</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Sub Total</DefaultText>
+		<Lang1>Sub Total</Lang1>
+		<Lang2>รวมราคา</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>25</TextID>
+		<DefaultText>SC</DefaultText>
+		<Lang1>SC</Lang1>
+		<Lang2>SC</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>26</TextID>
+		<DefaultText>Total Sale</DefaultText>
+		<Lang1>Total Sale</Lang1>
+		<Lang2>ราคาสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>27</TextID>
+		<DefaultText>Product &amp;&lt;br&gt;Service VAT</DefaultText>
+		<Lang1>Product &amp;&lt;br&gt;Service VAT</Lang1>
+		<Lang2>ภาษีสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>28</TextID>
+		<DefaultText>Total Sale&lt;br&gt;Include VAT</DefaultText>
+		<Lang1>Total Sale&lt;br&gt;Include VAT</Lang1>
+		<Lang2>ราคารวมภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>29</TextID>
+		<DefaultText>VATable</DefaultText>
+		<Lang1>VATable</Lang1>
+		<Lang2>จำนวนที่คิดภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>30</TextID>
+		<DefaultText>Total VAT</DefaultText>
+		<Lang1>Total VAT</Lang1>
+		<Lang2>ภาษีขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>31</TextID>
+		<DefaultText>Total Payment</DefaultText>
+		<Lang1>Total Payment</Lang1>
+		<Lang2>ยอดชำระ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>32</TextID>
+		<DefaultText>Diff</DefaultText>
+		<Lang1>Diff</Lang1>
+		<Lang2>ส่วนต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>33</TextID>
+		<DefaultText>Code</DefaultText>
+		<Lang1>Code</Lang1>
+		<Lang2>รหัสสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>34</TextID>
+		<DefaultText>Product Name</DefaultText>
+		<Lang1>Product Name</Lang1>
+		<Lang2>ชื่อสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>35</TextID>
+		<DefaultText>%</DefaultText>
+		<Lang1>%</Lang1>
+		<Lang2>%</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>36</TextID>
+		<DefaultText>Unit Price</DefaultText>
+		<Lang1>Unit Price</Lang1>
+		<Lang2>ราคาต่อหน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>37</TextID>
+		<DefaultText>Qty</DefaultText>
+		<Lang1>Qty</Lang1>
+		<Lang2>จำนวน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>38</TextID>
+		<DefaultText>Sub Total</DefaultText>
+		<Lang1>Sub Total</Lang1>
+		<Lang2>รวมราคา</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>39</TextID>
+		<DefaultText>Discount</DefaultText>
+		<Lang1>Discount</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>40</TextID>
+		<DefaultText>Total</DefaultText>
+		<Lang1>Total</Lang1>
+		<Lang2>ราคาสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>41</TextID>
+		<DefaultText>Payment Summary</DefaultText>
+		<Lang1>Payment Summary</Lang1>
+		<Lang2>สรุปการชำระเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>42</TextID>
+		<DefaultText>Payment Type</DefaultText>
+		<Lang1>Payment Type</Lang1>
+		<Lang2>ชนิดการชำระเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>43</TextID>
+		<DefaultText>Total Payment</DefaultText>
+		<Lang1>Total Payment</Lang1>
+		<Lang2>ยอดชำระ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>44</TextID>
+		<DefaultText>Amount Diff</DefaultText>
+		<Lang1>Amount Diff</Lang1>
+		<Lang2>ส่วนต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>45</TextID>
+		<DefaultText>Discount Summary</DefaultText>
+		<Lang1>Discount Summary</Lang1>
+		<Lang2>สรุปส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>46</TextID>
+		<DefaultText>Name</DefaultText>
+		<Lang1>Name</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>47</TextID>
+		<DefaultText>Discount</DefaultText>
+		<Lang1>Discount</Lang1>
+		<Lang2>จำนวนที่ลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>48</TextID>
+		<DefaultText>Statistics</DefaultText>
+		<Lang1>Statistics</Lang1>
+		<Lang2>สถิติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>49</TextID>
+		<DefaultText>Bill Statistics</DefaultText>
+		<Lang1>Bill Statistics</Lang1>
+		<Lang2>สถิติของบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>50</TextID>
+		<DefaultText>Total</DefaultText>
+		<Lang1>Total</Lang1>
+		<Lang2>รวม</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>51</TextID>
+		<DefaultText>Avg.</DefaultText>
+		<Lang1>Avg.</Lang1>
+		<Lang2>ค่าเฉลี่ย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>52</TextID>
+		<DefaultText>Amount</DefaultText>
+		<Lang1>Amount</Lang1>
+		<Lang2>ยอดเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>53</TextID>
+		<DefaultText>Total Discount</DefaultText>
+		<Lang1>Total Discount</Lang1>
+		<Lang2>รวมส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>54</TextID>
+		<DefaultText>Avg Per Customer</DefaultText>
+		<Lang1>Avg Per Customer</Lang1>
+		<Lang2>ค่าเฉลี่ยต่อหัว</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>55</TextID>
+		<DefaultText>Avg Per Bill</DefaultText>
+		<Lang1>Avg Per Bill</Lang1>
+		<Lang2>ค่าเฉลี่ยต่อบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>56</TextID>
+		<DefaultText>Avg Items Per Bill</DefaultText>
+		<Lang1>Avg Items Per Bill</Lang1>
+		<Lang2>ค่าเฉลี่ยสินค้าต่อบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>57</TextID>
+		<DefaultText>Used Bills</DefaultText>
+		<Lang1>Used Bills</Lang1>
+		<Lang2>จำนวนบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>58</TextID>
+		<DefaultText>Vioded Bills</DefaultText>
+		<Lang1>Vioded Bills</Lang1>
+		<Lang2>ยกเลิกบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>59</TextID>
+		<DefaultText>Total Bills</DefaultText>
+		<Lang1>Total Bills</Lang1>
+		<Lang2>รวมจำนวนบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>60</TextID>
+		<DefaultText>Time Range</DefaultText>
+		<Lang1>Time Range</Lang1>
+		<Lang2>ชั่วโมง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>61</TextID>
+		<DefaultText>Day of Week</DefaultText>
+		<Lang1>Day of Week</Lang1>
+		<Lang2>สัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>62</TextID>
+		<DefaultText>To</DefaultText>
+		<Lang1>To</Lang1>
+		<Lang2>ถึง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>63</TextID>
+		<DefaultText>Month</DefaultText>
+		<Lang1>Month</Lang1>
+		<Lang2>เดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>64</TextID>
+		<DefaultText>Shop Name</DefaultText>
+		<Lang1>Shop Name</Lang1>
+		<Lang2>ชื่อร้าน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>65</TextID>
+		<DefaultText>Date</DefaultText>
+		<Lang1>Date</Lang1>
+		<Lang2>วันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>66</TextID>
+		<DefaultText>Used Course</DefaultText>
+		<Lang1>Used Course</Lang1>
+		<Lang2>การใช้ course</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>67</TextID>
+		<DefaultText>Total Revenue</DefaultText>
+		<Lang1>Total Revenue</Lang1>
+		<Lang2>รวมรายได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>68</TextID>
+		<DefaultText>Total&lt;br&gt;Credit&amp;Prepaid</DefaultText>
+		<Lang1>Total&lt;br&gt;Credit&amp;Prepaid</Lang1>
+		<Lang2>รวมยอด prepaid</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>69</TextID>
+		<DefaultText>Total Revenue</DefaultText>
+		<Lang1>Total Revenue</Lang1>
+		<Lang2>รวมรายได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>70</TextID>
+		<DefaultText>All Shops</DefaultText>
+		<Lang1>All Shops</Lang1>
+		<Lang2>ทุกสาขา</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>71</TextID>
+		<DefaultText>Invalid date format</DefaultText>
+		<Lang1>Invalid date format</Lang1>
+		<Lang2>เลือกวันที่ไม่ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>72</TextID>
+		<DefaultText>based on</DefaultText>
+		<Lang1>based on</Lang1>
+		<Lang2>คำนวณจากยอด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>73</TextID>
+		<DefaultText>VAT</DefaultText>
+		<Lang1>VAT</Lang1>
+		<Lang2>ภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>74</TextID>
+		<DefaultText>Disc</DefaultText>
+		<Lang1>Disc</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>75</TextID>
+		<DefaultText>Actual</DefaultText>
+		<Lang1>Actual</Lang1>
+		<Lang2>ยอดจริง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>76</TextID>
+		<DefaultText>Total Payment (Not count prepaid payment)</DefaultText>
+		<Lang1>Total Payment (Not count prepaid payment)</Lang1>
+		<Lang2>ยอดชำระที่ไม่รวม prepaid</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>77</TextID>
+		<DefaultText>Price Discount</DefaultText>
+		<Lang1>Price Discount</Lang1>
+		<Lang2>ส่วนลดราคา</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>78</TextID>
+		<DefaultText>Member Discount</DefaultText>
+		<Lang1>Member Discount</Lang1>
+		<Lang2>ส่วนลดสมาชิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>79</TextID>
+		<DefaultText>Staff Discount</DefaultText>
+		<Lang1>Staff Discount</Lang1>
+		<Lang2>ส่วนลดพนักงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>80</TextID>
+		<DefaultText>Coupon Discount</DefaultText>
+		<Lang1>Coupon Discount</Lang1>
+		<Lang2>ส่วนลดคูปอง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>81</TextID>
+		<DefaultText>Voucher Discount</DefaultText>
+		<Lang1>Voucher Discount</Lang1>
+		<Lang2>ส่วนลดบัตรกำนัล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>82</TextID>
+		<DefaultText>Total Discount</DefaultText>
+		<Lang1>Total Discount</Lang1>
+		<Lang2>รวมส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>83</TextID>
+		<DefaultText>Credit Money: Paid By</DefaultText>
+		<Lang1>Credit Money: Paid By</Lang1>
+		<Lang2>ชำระค่าค้างจ่ายโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>84</TextID>
+		<DefaultText>Summary Credit Money</DefaultText>
+		<Lang1>Summary Credit Money</Lang1>
+		<Lang2>รวมยอดชำระจากค้างจ่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>85</TextID>
+		<DefaultText>Total Payment (include credit money)</DefaultText>
+		<Lang1>Total Payment (include credit money)</Lang1>
+		<Lang2>รวมยอดชำระทั้งหมด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>86</TextID>
+		<DefaultText>Other Discount</DefaultText>
+		<Lang1>Other Discount</Lang1>
+		<Lang2>ส่วนลดอื่นๆ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>87</TextID>
+		<DefaultText>Avg/Cust</DefaultText>
+		<Lang1>Avg/Cust</Lang1>
+		<Lang2>เฉลี่ยต่อหัว</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>88</TextID>
+		<DefaultText>Avg/Bill</DefaultText>
+		<Lang1>Avg/Bill</Lang1>
+		<Lang2>เฉลี่ยต่อบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>89</TextID>
+		<DefaultText>Summary for</DefaultText>
+		<Lang1>Summary for</Lang1>
+		<Lang2>ยอดรวมของกลุ่มสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>90</TextID>
+		<DefaultText> group</DefaultText>
+		<Lang1> group</Lang1>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>91</TextID>
+		<DefaultText>Total for</DefaultText>
+		<Lang1>Total for</Lang1>
+		<Lang2>ยอดรวมของหมวดสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>92</TextID>
+		<DefaultText>Grand Total</DefaultText>
+		<Lang1>Grand Total</Lang1>
+		<Lang2>ยอดรวมทั้งหมด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>93</TextID>
+		<DefaultText>Service Charge</DefaultText>
+		<Lang1>Service Charge</Lang1>
+		<Lang2>Service Charge</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>94</TextID>
+		<DefaultText>Product &amp; Service VAT</DefaultText>
+		<Lang1>Product &amp; Service VAT</Lang1>
+		<Lang2>ภาษีสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>95</TextID>
+		<DefaultText>Total Sale</DefaultText>
+		<Lang1>Total Sale</Lang1>
+		<Lang2>ยอดรวมสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>96</TextID>
+		<DefaultText>(Voided)</DefaultText>
+		<Lang1>(Voided)</Lang1>
+		<Lang2>(ยกเลิก)</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>97</TextID>
+		<DefaultText>Summary</DefaultText>
+		<Lang1>Summary</Lang1>
+		<Lang2>สรุป</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>98</TextID>
+		<DefaultText>Order #</DefaultText>
+		<Lang1>Order #</Lang1>
+		<Lang2>ลำดับเลขที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>99</TextID>
+		<DefaultText>Received By</DefaultText>
+		<Lang1>Received By</Lang1>
+		<Lang2>รับชำระโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>100</TextID>
+		<DefaultText>Amount Paid</DefaultText>
+		<Lang1>Amount Paid</Lang1>
+		<Lang2>ยอดที่ชำระ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>101</TextID>
+		<DefaultText>Status</DefaultText>
+		<Lang1>Status</Lang1>
+		<Lang2>สถานะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>102</TextID>
+		<DefaultText>Completed</DefaultText>
+		<Lang1>Completed</Lang1>
+		<Lang2>สมบูรณ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>103</TextID>
+		<DefaultText>Voided</DefaultText>
+		<Lang1>Voided</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>104</TextID>
+		<DefaultText>Total Paid</DefaultText>
+		<Lang1>Total Paid</Lang1>
+		<Lang2>ยอดชำระ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>105</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>ยอดคงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>106</TextID>
+		<DefaultText>Promotion Info:</DefaultText>
+		<Lang1>Promotion Info:</Lang1>
+		<Lang2>รายละเอียดโปรโมชั่น</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>107</TextID>
+		<DefaultText>Coupon</DefaultText>
+		<Lang1>Coupon</Lang1>
+		<Lang2>คูปอง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>108</TextID>
+		<DefaultText>Voucher</DefaultText>
+		<Lang1>Voucher</Lang1>
+		<Lang2>บัตรกำนัล</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>109</TextID>
+		<DefaultText>Received By</DefaultText>
+		<Lang1>Received By</Lang1>
+		<Lang2>รับชำระโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>110</TextID>
+		<DefaultText>Voided By</DefaultText>
+		<Lang1>Voided By</Lang1>
+		<Lang2>ยกเลิกโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>111</TextID>
+		<DefaultText>Member's Name:</DefaultText>
+		<Lang1>Member's Name:</Lang1>
+		<Lang2>ชื่อสมาชิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>112</TextID>
+		<DefaultText>Customer's Name:</DefaultText>
+		<Lang1>Customer's Name:</Lang1>
+		<Lang2>ชื่อลูกค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>113</TextID>
+		<DefaultText>Paid By:</DefaultText>
+		<Lang1>Paid By:</Lang1>
+		<Lang2>ชำระโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>114</TextID>
+		<DefaultText>Total Summary</DefaultText>
+		<Lang1>Total Summary</Lang1>
+		<Lang2>สรุป</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>115</TextID>
+		<DefaultText>Total Price</DefaultText>
+		<Lang1>Total Price</Lang1>
+		<Lang2>ยอดขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>116</TextID>
+		<DefaultText>Total Discount</DefaultText>
+		<Lang1>Total Discount</Lang1>
+		<Lang2>ยอดส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>117</TextID>
+		<DefaultText>Total Sale</DefaultText>
+		<Lang1>Total Sale</Lang1>
+		<Lang2>ยอดขายหลังส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>118</TextID>
+		<DefaultText>Sale Report By Time</DefaultText>
+		<Lang1>Sale Report By Time</Lang1>
+		<Lang2>รายงานการขายสินค้าตามเวลา</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>119</TextID>
+		<DefaultText>Open time between</DefaultText>
+		<Lang1>Open time between</Lang1>
+		<Lang2>เวลาขายระหว่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>120</TextID>
+		<DefaultText>and</DefaultText>
+		<Lang1>and</Lang1>
+		<Lang2>ถึง</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>121</TextID>
+		<DefaultText>Open time &gt;=</DefaultText>
+		<Lang1>Open time &gt;=</Lang1>
+		<Lang2>เวลาขายมากกว่าหรือเท่ากับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>122</TextID>
+		<DefaultText>Open time &lt;=</DefaultText>
+		<Lang1>Open time &lt;=</Lang1>
+		<Lang2>เวลาขายน้อยกว่าหรือเท่ากับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>123</TextID>
+		<DefaultText>Sale Report By Time of</DefaultText>
+		<Lang1>Sale Report By Time of</Lang1>
+		<Lang2>รายงานการขายสินค้าตามเวลาของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>124</TextID>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>125</TextID>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>126</TextID>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>127</TextID>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>128</TextID>
+	</Form>
+	<Form>
+		<FormID>6</FormID>
+		<FormName>report_sale_new.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>129</TextID>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Summary Sale Report</DefaultText>
+		<Lang1>Summary Sale Report</Lang1>
+		<Lang2>รายงานสรุปการขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<Lang1>To</Lang1>
+		<Lang2>ถึง</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Summary Sale Report of All Shops</DefaultText>
+		<Lang1>Summary Sale Report of All Shops</Lang1>
+		<Lang2>รายงานสรุปการขายของทุกร้าน</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Summary Sale Report of</DefaultText>
+		<Lang1>Summary Sale Report of</Lang1>
+		<Lang2>รายงานสรุปการขายของร้าน</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Shop Code</DefaultText>
+		<Lang1>Shop Code</Lang1>
+		<Lang2>รหัสสาขา</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Shop Name</DefaultText>
+		<Lang1>Shop Name</Lang1>
+		<Lang2>ชื่อสาขา</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Receipt #</DefaultText>
+		<Lang1>Receipt #</Lang1>
+		<Lang2>เลขที่บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Date</DefaultText>
+		<Lang1>Date</Lang1>
+		<Lang2>วันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Bill</DefaultText>
+		<Lang1>Bill</Lang1>
+		<Lang2>จำนวนบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Guest</DefaultText>
+		<Lang1>Guest</Lang1>
+		<Lang2>ลูกค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Sub Total</DefaultText>
+		<Lang1>Sub Total</Lang1>
+		<Lang2>รวม</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Disc</DefaultText>
+		<Lang1>Disc</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Sale Amount</DefaultText>
+		<Lang1>Sale Amount</Lang1>
+		<Lang2>ยอดรวม</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>SC</DefaultText>
+		<Lang1>SC</Lang1>
+		<Lang2>SC</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Total Sales</DefaultText>
+		<Lang1>Total Sales</Lang1>
+		<Lang2>ยอดสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Vatable</DefaultText>
+		<Lang1>Vatable</Lang1>
+		<Lang2>ยอดที่คิดภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>VAT</DefaultText>
+		<Lang1>VAT</Lang1>
+		<Lang2>ภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Total Sales</DefaultText>
+		<Lang1>Total Sales</Lang1>
+		<Lang2>ยอดสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Vatable</DefaultText>
+		<Lang1>Vatable</Lang1>
+		<Lang2>ยอดที่คิดภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>18</TextID>
+		<DefaultText>VAT</DefaultText>
+		<Lang1>VAT</Lang1>
+		<Lang2>ภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Total Sales&lt;br&gt;(Inc VAT)</DefaultText>
+		<Lang1>Total Sales&lt;br&gt;(Inc VAT)</Lang1>
+		<Lang2>ยอดรวมภาษี</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Avg/Head</DefaultText>
+		<Lang1>Avg/Head</Lang1>
+		<Lang2>เฉลี่ยต่อบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Avg/Bill</DefaultText>
+		<Lang1>Avg/Bill</Lang1>
+		<Lang2>เฉลี่ยต่อหัว</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Total Payment</DefaultText>
+		<Lang1>Total Payment</Lang1>
+		<Lang2>ยอดชำระ</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Diff</DefaultText>
+		<Lang1>Diff</Lang1>
+		<Lang2>ส่วนต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Total Revenue</DefaultText>
+		<Lang1>Total Revenue</Lang1>
+		<Lang2>รับรู้รายได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>25</TextID>
+		<DefaultText>Total Prepaid</DefaultText>
+		<Lang1>Total Prepaid</Lang1>
+		<Lang2>ยอด prepaid</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>26</TextID>
+		<DefaultText>Total Payment&lt;br&gt;(witout prepaid)</DefaultText>
+		<Lang1>Total Payment&lt;br&gt;(witout prepaid)</Lang1>
+		<Lang2>ยอดชำระไม่รวม prepaid</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>27</TextID>
+		<DefaultText>#Void</DefaultText>
+		<Lang1>#Void</Lang1>
+		<Lang2>บิลยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>28</TextID>
+		<DefaultText>Void Amt</DefaultText>
+		<Lang1>Void Amt</Lang1>
+		<Lang2>ยอดรวมยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>29</TextID>
+		<DefaultText>closed by:</DefaultText>
+		<Lang1>closed by:</Lang1>
+		<Lang2>ปิดรอบโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>30</TextID>
+		<DefaultText>Terminal:</DefaultText>
+		<Lang1>Terminal:</Lang1>
+		<Lang2>เครื่องขาย</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>31</TextID>
+		<DefaultText>Duration:</DefaultText>
+		<Lang1>Duration:</Lang1>
+		<Lang2>ช่วงเวลา</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>32</TextID>
+		<DefaultText>(Voided)</DefaultText>
+		<Lang1>(Voided)</Lang1>
+		<Lang2>(ยกเลิก)</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>33</TextID>
+		<DefaultText>Grand Total</DefaultText>
+		<Lang1>Grand Total</Lang1>
+		<Lang2>รวมทั้งสิ้น</Lang2>
+	</Form>
+	<Form>
+		<FormID>7</FormID>
+		<FormName>report_sale_bygroup.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>34</TextID>
+		<DefaultText>Sub Total</DefaultText>
+		<Lang1>Sub Total</Lang1>
+		<Lang2>รวมยอด</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Void Bill Report</DefaultText>
+		<Lang1>Void Bill Report</Lang1>
+		<Lang2>รายงานยกเลิกบิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Date</DefaultText>
+		<Lang1>Date</Lang1>
+		<Lang2>วันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Receipt #</DefaultText>
+		<Lang1>Receipt #</Lang1>
+		<Lang2>เลขที่บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Voided By</DefaultText>
+		<Lang1>Voided By</Lang1>
+		<Lang2>ยกเลิกโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Member</DefaultText>
+		<Lang1>Member</Lang1>
+		<Lang2>ชื่อลูกค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Bill Amount</DefaultText>
+		<Lang1>Bill Amount</Lang1>
+		<Lang2>ยอดเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Void Date</DefaultText>
+		<Lang1>Void Date</Lang1>
+		<Lang2>วันที่ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Void Reason</DefaultText>
+		<Lang1>Void Reason</Lang1>
+		<Lang2>สาเหตุที่ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Shop Name</DefaultText>
+		<Lang1>Shop Name</Lang1>
+		<Lang2>ชื่อสาขา</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Order By Bill Date</DefaultText>
+		<Lang1>Order By Bill Date</Lang1>
+		<Lang2>เรียงตามวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Order By Staff</DefaultText>
+		<Lang1>Order By Staff</Lang1>
+		<Lang2>เรียงตามพนักงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Void Bill Report of</DefaultText>
+		<Lang1>Void Bill Report of</Lang1>
+		<Lang2>รายงานยกเลิกบิลของ</Lang2>
+	</Form>
+	<Form>
+		<FormID>8</FormID>
+		<FormName>report_void.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Total Void</DefaultText>
+		<Lang1>Total Void</Lang1>
+		<Lang2>รวมยอดเงินที่ถูกยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>No Grouping</DefaultText>
+		<Lang1>No Grouping</Lang1>
+		<Lang2>แสดงรายละเอียดทั้งหมด</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Group By Type</DefaultText>
+		<Lang1>Group By Type</Lang1>
+		<Lang2>แสดงรวมตามชนิดบัตร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Group By Bank</DefaultText>
+		<Lang1>Group By Bank</Lang1>
+		<Lang2>แสดงรวมตามธนาคาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Group By Bank/Type</DefaultText>
+		<Lang1>Group By Bank/Type</Lang1>
+		<Lang2>แสดงรวมตามชนิดบัตรและธนาคาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Grouping Date</DefaultText>
+		<Lang1>Grouping Date</Lang1>
+		<Lang2>แสดงรวมตามวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Shop Name</DefaultText>
+		<Lang1>Shop Name</Lang1>
+		<Lang2>ชื่อร้าน</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Receipt #</DefaultText>
+		<Lang1>Receipt #</Lang1>
+		<Lang2>เลขที่บิล</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Credit Card #</DefaultText>
+		<Lang1>Credit Card #</Lang1>
+		<Lang2>หมายเลขบัตร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Bank Name</DefaultText>
+		<Lang1>Bank Name</Lang1>
+		<Lang2>ชื่อธนาคาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Credit Card Type Name</DefaultText>
+		<Lang1>Credit Card Type Name</Lang1>
+		<Lang2>ชนิดบัตร</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Date</DefaultText>
+		<Lang1>Date</Lang1>
+		<Lang2>วันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Paid Amount</DefaultText>
+		<Lang1>Paid Amount</Lang1>
+		<Lang2>ยอดเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>No Result</DefaultText>
+		<Lang1>No Result</Lang1>
+		<Lang2>ไม่พบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Total Amount</DefaultText>
+		<Lang1>Total Amount</Lang1>
+		<Lang2>ยอดรวมทั้งหมด</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>No Data Found</DefaultText>
+		<Lang1>No Data Found</Lang1>
+		<Lang2>ไม่พบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Credit Card Report Between</DefaultText>
+		<Lang1>Credit Card Report Between</Lang1>
+		<Lang2>รายงานของวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>9</FormID>
+		<FormName>CreditCard_SaleReport.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>and</DefaultText>
+		<Lang1>and</Lang1>
+		<Lang2>ถึง</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>1</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Sale Report By Category</DefaultText>
+		<Lang1>Sale Report By Category</Lang1>
+		<Lang2>รายงานการขายตามกลุ่มสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>0</TextID>
+		<DefaultText>Group By Product Group</DefaultText>
+		<Lang1>Group By Product Group</Lang1>
+		<Lang2>แสดงยอดรวมตามกลุ่มสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Code</DefaultText>
+		<Lang1>Code</Lang1>
+		<Lang2>รหัส</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Product Dept</DefaultText>
+		<Lang1>Product Dept</Lang1>
+		<Lang2>ชื่อหมวด</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Product Group</DefaultText>
+		<Lang1>Product Group</Lang1>
+		<Lang2>ชื่อกลุ่ม</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Qty</DefaultText>
+		<Lang1>Qty</Lang1>
+		<Lang2>จำนวน</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>%</DefaultText>
+		<Lang1>%</Lang1>
+		<Lang2>%</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Sub Total</DefaultText>
+		<Lang1>Sub Total</Lang1>
+		<Lang2>ยอดรวม</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>SC</DefaultText>
+		<Lang1>SC</Lang1>
+		<Lang2>ค่าบริการ</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Discount</DefaultText>
+		<Lang1>Discount</Lang1>
+		<Lang2>ส่วนลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Total Sale</DefaultText>
+		<Lang1>Total Sale</Lang1>
+		<Lang2>ยอดสุทธิ</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Shop Name</DefaultText>
+		<Lang1>Shop Name</Lang1>
+		<Lang2>ชื่อร้าน</Lang2>
+	</Form>
+	<Form>
+		<FormID>10</FormID>
+		<FormName>report_bydept.aspx</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Sale Report By Category of</DefaultText>
+		<Lang1>Sale Report By Category of</Lang1>
+		<Lang2>รายงานการขายตามกลุ่มสินค้าของ</Lang2>
+	</Form>
+  
+</LanguageData>

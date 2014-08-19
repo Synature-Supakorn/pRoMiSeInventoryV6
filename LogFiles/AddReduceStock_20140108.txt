@@ -1,0 +1,182 @@
+Error Message At 08-01-2014 14:29
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:29
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:29
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:31
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:31
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:31
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:32
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:32
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:32
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:35
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:35
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:35
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:42
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:42
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:42
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:43
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:43
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 14:43
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 15:01
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 15:01
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 08-01-2014 15:01
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------

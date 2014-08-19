@@ -1,0 +1,104 @@
+Error Message At 17-01-2014 14:27
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:27
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:27
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:33
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:33
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:33
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:40
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:40
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:40
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:41
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:41
+ConnectDataBase: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 17-01-2014 14:41
+SearchAddreduceDocument: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Inventory_DataXML_AdjustDocumentDataXML.SearchAddReduceDocument()
+
+--------------------------------------------------------------------------------

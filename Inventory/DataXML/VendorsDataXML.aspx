@@ -1,0 +1,1 @@
+﻿<%@ page language="C#" autoeventwireup="true" inherits="Inventory_DataXML_VendorsDataXML, App_Web_vendorsdataxml.aspx.9ecc1480" enableEventValidation="false" %>

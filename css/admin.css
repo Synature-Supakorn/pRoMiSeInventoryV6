@@ -1,0 +1,141 @@
+a {
+	font-size:12px;
+	line-height:15px;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	font-weight:normal;
+	text-decoration : none;
+}
+a:hover {
+	text-decoration : underline;
+	color: #BAC40B;
+}
+a.tableHeader {
+	font-size:12px;
+	line-height:15px;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	font-weight:normal;
+	text-decoration : underline;
+	color : White;
+}
+a:hover.tableHeader {
+	text-decoration : underline;
+	color: #BAC40B;
+}
+.tdHeader {
+	font-size:12px;
+	line-height:15px;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana ;
+	font-weight:normal;
+	color : White;
+}
+.menuText{
+	font-size:11px;
+	line-height:15px;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana;
+	text-decoration : none;
+	color : Black;
+}
+.headerText{
+	font-size:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana;
+	color : black;
+	font-weight : bold;
+}
+.text{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : black;
+}
+.redText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : red;
+}
+.smallRedText{
+	font-size:11px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : red;
+}
+.disabledText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : #909090;
+}
+.disabledBoldText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : #909090;
+	font-weight : bold;
+}
+.itemText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : black;
+}
+.boldText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : black;
+	font-weight : bold;
+}
+.requireText{
+	font-size:13px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : red;
+}
+.errorText{
+	font-size:10px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	color : red;
+}
+.smalltext{
+	font-size:11px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+}
+.smallboldtext{
+	font-size:11px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	font-weight : bold;
+}
+.smallTdHeader{
+	font-size:11px;
+	line-height:15px;
+	font-family:sans-serif;
+	font-family: arial,Verdana,Geneva, Arial, Helvetica, sans-serif,Verdana, ;
+	font-weight:normal;
+	color : White;
+}
+.buttn{
+	font-size:10px;
+	width:155px;
+}
+
+@media print {
+
+    .noprint{display : none;}
+
+    }
+

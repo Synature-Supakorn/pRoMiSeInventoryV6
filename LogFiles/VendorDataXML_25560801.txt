@@ -1,0 +1,29 @@
+Error Message At 01-08-2556 19:06
+AddVendor: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e) in d:\pRoMiseSoftware\pRoMiSe V.7\pRoMiSeInventory\Inventory\DataXML\VendorsDataXML.aspx.cs:line 112
+
+--------------------------------------------------------------------------------
+Error Message At 01-08-2556 19:06
+AddVendor: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at Inventory_DataXML_VendorsDataXML.GenerateVenderGroupXML() in d:\pRoMiseSoftware\pRoMiSe V.7\pRoMiSeInventory\Inventory\DataXML\VendorsDataXML.aspx.cs:line 448
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e) in d:\pRoMiseSoftware\pRoMiSe V.7\pRoMiSeInventory\Inventory\DataXML\VendorsDataXML.aspx.cs:line 185
+
+--------------------------------------------------------------------------------
+Error Message At 01-08-2556 19:06
+AddVendor: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at Inventory_DataXML_VendorsDataXML.GenerateVendersXML(Int32 vendorGroupId) in d:\pRoMiseSoftware\pRoMiSe V.7\pRoMiSeInventory\Inventory\DataXML\VendorsDataXML.aspx.cs:line 404
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e) in d:\pRoMiseSoftware\pRoMiSe V.7\pRoMiSeInventory\Inventory\DataXML\VendorsDataXML.aspx.cs:line 175
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+Error Message At 21-02-2014 14:05
+AddVendor: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at Inventory_DataXML_VendorsDataXML.GenerateVenderGroupXML()
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 21-02-2014 14:05
+AddVendor: 
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------
+Error Message At 21-02-2014 14:06
+AddVendor: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at Inventory_DataXML_VendorsDataXML.GenerateVendersXML(Int32 vendorGroupId)
+   at Inventory_DataXML_VendorsDataXML.Page_Load(Object sender, EventArgs e)
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,3621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LanguageData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Add/Reduce stock</DefaultText>
+		<Lang1>Add/Reduce stock</Lang1>
+		<Lang2>ปรับเพิ่ม/ปรับลด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Document status</DefaultText>
+		<Lang1>Document status</Lang1>
+		<Lang2>สถานะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Document type</DefaultText>
+		<Lang1>Document type</Lang1>
+		<Lang2>ชนิดเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Document number</DefaultText>
+		<Lang1>Document number</Lang1>
+		<Lang2>เลขที่เอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Document date</DefaultText>
+		<Lang1>Document date</Lang1>
+		<Lang2>วันที่เอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Adjust type</DefaultText>
+		<Lang1>Adjust type</Lang1>
+		<Lang2>ประเภทการปรับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Note</DefaultText>
+		<Lang1>Note</Lang1>
+		<Lang2>หมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Document type</DefaultText>
+		<Lang1>Document type</Lang1>
+		<Lang2>ชนิดเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Input material</DefaultText>
+		<Lang1>Input material</Lang1>
+		<Lang2>ใส่วัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Search</DefaultText>
+		<Lang1>Search</Lang1>
+		<Lang2>คีย์ค้นหา</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Material group</DefaultText>
+		<Lang1>Material group</Lang1>
+		<Lang2>กลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>13</TextID>
+		<DefaultText>From date</DefaultText>
+		<Lang1>From date</Lang1>
+		<Lang2>จากวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>14</TextID>
+		<DefaultText>To date</DefaultText>
+		<Lang1>To date</Lang1>
+		<Lang2>ถึงวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Document status</DefaultText>
+		<Lang1>Document status</Lang1>
+		<Lang2>สถานะเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Adjust type</DefaultText>
+		<Lang1>Adjust type</Lang1>
+		<Lang2>ประเภทการปรับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Document type</DefaultText>
+		<Lang1>Document type</Lang1>
+		<Lang2>ชนิดเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Adjust - Add stock document</DefaultText>
+		<Lang1>Adjust - Add stock document</Lang1>
+		<Lang2>ใบปรับเพิ่มสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Adjust - Reduce stock document</DefaultText>
+		<Lang1>Adjust - Reduce stock document</Lang1>
+		<Lang2>ใบปรับลดสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Search by</DefaultText>
+		<Lang1>Search By</Lang1>
+		<Lang2>ค้นหาตาม</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Material Dept.</DefaultText>
+		<Lang1>Material Dept.</Lang1>
+		<Lang2>หมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Code</DefaultText>
+		<Lang1>Code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Name</DefaultText>
+		<Lang1>Name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Create document</DefaultText>
+		<Lang1>Create document</Lang1>
+		<Lang2>สร้างเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Search document</DefaultText>
+		<Lang1>Search document</Lang1>
+		<Lang2>ค้นหาเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Save document</DefaultText>
+		<Lang1>Save document</Lang1>
+		<Lang2>บันทึกเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Approve document</DefaultText>
+		<Lang1>Approve document</Lang1>
+		<Lang2>อนุมัติเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Export Excel</DefaultText>
+		<Lang1>Export Excel</Lang1>
+		<Lang2>Export Excel</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Add</DefaultText>
+		<Lang1>Add</Lang1>
+		<Lang2>เพิ่ม</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Delete</DefaultText>
+		<Lang1>Delete</Lang1>
+		<Lang2>ลบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Yes</DefaultText>
+		<Lang1>Yes</Lang1>
+		<Lang2>ใช่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>No</DefaultText>
+		<Lang1>No</Lang1>
+		<Lang2>ไม่ใช่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Close</DefaultText>
+		<Lang1>Close</Lang1>
+		<Lang2>ปิด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Search</DefaultText>
+		<Lang1>Search</Lang1>
+		<Lang2>ค้นหา</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Are you sure to approve this document ?</DefaultText>
+		<Lang1>Are you sure to approve this document ?</Lang1>
+		<Lang2>คุณกำลังจะอนุมัติเอกสารนี้ แน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Are you sure to cancel this document ?</DefaultText>
+		<Lang1>Are you sure to cancel this document ?</Lang1>
+		<Lang2>คุณกำลังจะยกเลิกเอกสารนี้ แน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Are you sure to delete this material ?</DefaultText>
+		<Lang1>Are you sure to delete this material ?</Lang1>
+		<Lang2>คุณกำลังจะลบวัตถุดิบนี้ แน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Please select material that you want to delete.</DefaultText>
+		<Lang1>Please select material that you want to delete.</Lang1>
+		<Lang2>กรุณาเลือกวัตถุดิบที่คุณต้องการลบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Please select document type.</DefaultText>
+		<Lang1>Please select document type.</Lang1>
+		<Lang2>กรุณาเลือกชนิดเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Save Document Success.</DefaultText>
+		<Lang1>Save Document Success.</Lang1>
+		<Lang2>บันทึกเอกสารเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Save Document</DefaultText>
+		<Lang1>Save Document</Lang1>
+		<Lang2>บันทึกเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Error ! Cannot save document.</DefaultText>
+		<Lang1>Error ! Cannot save document.</Lang1>
+		<Lang2>ผิดพลาด ไม่สามารถบันทึกเอกสารได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Approve Document success.</DefaultText>
+		<Lang1>Approve Document success.</Lang1>
+		<Lang2>อนุมัติเอกสารเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Approve Document</DefaultText>
+		<Lang1>Approve Document</Lang1>
+		<Lang2>อนุมัติเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Error ! Cannot approve document.</DefaultText>
+		<Lang1>Error ! Cannot approve document.</Lang1>
+		<Lang2>ผิดพลาด ไม่สามารถอนุมัติเอกสารได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Working</DefaultText>
+		<Lang1>Working</Lang1>
+		<Lang2>กำลังแก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Approved</DefaultText>
+		<Lang1>Approved</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Canceled</DefaultText>
+		<Lang1>Canceled</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Please enter material code</DefaultText>
+		<Lang1>Please enter material code</Lang1>
+		<Lang2>กรุณาใส่รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Please enter material amount</DefaultText>
+		<Lang1>Please enter material amount</Lang1>
+		<Lang2>กรุณใส่จำนวนวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>17</TextID>
+		<DefaultText>This material has insert in to list.</DefaultText>
+		<Lang1>This material has insert in to list.</Lang1>
+		<Lang2>วัตถุดิบนี้ถูกใส่เข้าในรายการแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Please note.</DefaultText>
+		<Lang1>Please note.</Lang1>
+		<Lang2>กรุณาระบุหมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Created by</DefaultText>
+		<Lang1>Created by</Lang1>
+		<Lang2>สร้างโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Updated by</DefaultText>
+		<Lang1>Updated by</Lang1>
+		<Lang2>แก้ไขโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Approved by</DefaultText>
+		<Lang1>Approved by</Lang1>
+		<Lang2>อนุมัติโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Canceled by</DefaultText>
+		<Lang1>Canceled by</Lang1>
+		<Lang2>ยกเลิกโดย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Not found material</DefaultText>
+		<Lang1>Not found material</Lang1>
+		<Lang2>ไม่พบวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>24</TextID>
+		<DefaultText>You cannot create adjust document</DefaultText>
+		<Lang1>You cannot create adjust document</Lang1>
+		<Lang2>คุณไม่สามารถสร้างเอกสารปรับสต๊อกได้ เนื่องจากมีการนับสต๊อกอยู่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>25</TextID>
+		<DefaultText>Please wait…</DefaultText>
+		<Lang1>Please wait…</Lang1>
+		<Lang2>รอสักครู่…</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>26</TextID>
+		<DefaultText>Not enough stock</DefaultText>
+		<Lang1>Not enough stock</Lang1>
+		<Lang2>จำนวนคงเหลือในสต๊อกไม่พอ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Code</DefaultText>
+		<Lang1>Code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Name</DefaultText>
+		<Lang1>Name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Unit</DefaultText>
+		<Lang1>Unit</Lang1>
+		<Lang2>หน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Adjust</DefaultText>
+		<Lang1>Adjust</Lang1>
+		<Lang2>จำนวนปรับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Material List</DefaultText>
+		<Lang1>Material List</Lang1>
+		<Lang2>รายการวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Document Number</DefaultText>
+		<Lang1>Document Number</Lang1>
+		<Lang2>เลขที่เอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Document Date</DefaultText>
+		<Lang1>Document Date</Lang1>
+		<Lang2>วันที่เอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Document Status</DefaultText>
+		<Lang1>Document Status</Lang1>
+		<Lang2>สถานะเอกสาร</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Note</DefaultText>
+		<Lang1>Note</Lang1>
+		<Lang2>หมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Search Result</DefaultText>
+		<Lang1>Search Result</Lang1>
+		<Lang2>ผลการค้นหา</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Stock</DefaultText>
+		<Lang1>Stock</Lang1>
+		<Lang2>สต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20001</FormID>
+		<FormName>AddReduceStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Search material</DefaultText>
+		<Lang1>Search material</Lang1>
+		<Lang2>ค้นหาวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Vendor</DefaultText>
+		<Lang1>Vendor</Lang1>
+		<Lang2>ผู้จัดจำหน่ายวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Vendor Group</DefaultText>
+		<Lang1>Vendor Group</Lang1>
+		<Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Vendor Group</DefaultText>
+		<Lang1>Vendor Group</Lang1>
+		<Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Vendor Name</DefaultText>
+		<Lang1>Vendor Name</Lang1>
+		<Lang2>ชื่อผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Vendor Code</DefaultText>
+		<Lang1>Vendor Code</Lang1>
+		<Lang2>รหัสผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Contact Name</DefaultText>
+		<Lang1>Contact Name</Lang1>
+		<Lang2>ชื่อผู้ติดต่อ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Last Name</DefaultText>
+		<Lang1>Last Name</Lang1>
+		<Lang2>นามสกุล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Address 1</DefaultText>
+		<Lang1>Address 1</Lang1>
+		<Lang2>ที่อยู่ 1</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>City</DefaultText>
+		<Lang1>City</Lang1>
+		<Lang2>อำเภอ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Address 2</DefaultText>
+		<Lang1>Address 2</Lang1>
+		<Lang2>ที่อยู่ 2</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Province</DefaultText>
+		<Lang1>Province</Lang1>
+		<Lang2>จังหวัด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>13</TextID>
+		<DefaultText>ZipCode</DefaultText>
+		<Lang1>ZipCode</Lang1>
+		<Lang2>รหัสไปรษณี</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Fax</DefaultText>
+		<Lang1>Fax</Lang1>
+		<Lang2>แฟกซ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Telephone</DefaultText>
+		<Lang1>Telephone</Lang1>
+		<Lang2>โทรศัพท์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Email</DefaultText>
+		<Lang1>Email</Lang1>
+		<Lang2>อีเมล์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Mobile</DefaultText>
+		<Lang1>Mobile</Lang1>
+		<Lang2>มือถือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Pay type</DefaultText>
+		<Lang1>Pay type</Lang1>
+		<Lang2>ประเภทการชำระเงิน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Credit day</DefaultText>
+		<Lang1>Credit day</Lang1>
+		<Lang2>จำนวนวันเครดิต</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Vendor Group Code</DefaultText>
+		<Lang1>Vendor Group Code</Lang1>
+		<Lang2>รหัสกลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Vendor Group Name</DefaultText>
+		<Lang1>Vendor Group Name</Lang1>
+		<Lang2>ชื่อกลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Vendor Code</DefaultText>
+		<Lang1>Vendor Code</Lang1>
+		<Lang2>รหัสผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Vendor Name</DefaultText>
+		<Lang1>Vendor Name</Lang1>
+		<Lang2>ชื่อผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>1</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Vendors</DefaultText>
+		<Lang1>Vendors</Lang1>
+		<Lang2>ผู้จัดจำหน่ายวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Add Vendor</DefaultText>
+		<Lang1>Add Vendor</Lang1>
+		<Lang2>เพิ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Vendor Group</DefaultText>
+		<Lang1>Vendor Group</Lang1>
+		<Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Cash</DefaultText>
+		<Lang1>Cash</Lang1>
+		<Lang2>เงินสด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Credit</DefaultText>
+		<Lang1>Credit</Lang1>
+		<Lang2>เครดิต</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>All group</DefaultText>
+		<Lang1>All group</Lang1>
+		<Lang2>ทุกกลุ่ม</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>This shop</DefaultText>
+		<Lang1>This shop</Lang1>
+		<Lang2>สาขานี้เท่านั้น</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Add vendor group</DefaultText>
+		<Lang1>Add vendor group</Lang1>
+		<Lang2>เพิ่มกลุ่ม</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Delete vendor group</DefaultText>
+		<Lang1>Delete vendor group</Lang1>
+		<Lang2>ลบกลุ่ม</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Del</DefaultText>
+		<Lang1>Del</Lang1>
+		<Lang2>ลบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Save</DefaultText>
+		<Lang1>Save</Lang1>
+		<Lang2>บันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Add Vendor</DefaultText>
+		<Lang1>Add Vendor</Lang1>
+		<Lang2>เพิ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Edit Vendor</DefaultText>
+		<Lang1>Edit Vendor</Lang1>
+		<Lang2>แก้ไขผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Do you want to delete this vendor ?</DefaultText>
+		<Lang1>Do you want to delete this vendor ?</Lang1>
+		<Lang2>คุณต้องการลบ ผู้จัดจำหน่าย แน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Do you want to delete this vendor group ?</DefaultText>
+		<Lang1>Do you want to delete this vendor group ?</Lang1>
+		<Lang2>คุณต้องการลบ กลุ่มผู้จัดจำหน่าย แน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Delete Data</DefaultText>
+		<Lang1>Delete Data</Lang1>
+		<Lang2>ลบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Add Vendor Group</DefaultText>
+		<Lang1>Add Vendor Group</Lang1>
+		<Lang2>เพิ่มกลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Edit vendor data success.</DefaultText>
+		<Lang1>Edit vendor data success.</Lang1>
+		<Lang2>แก้ไขข้อมูลผู้จัดจำหน่ายวัตถุดิบสำเร็จ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Add vendor data success.</DefaultText>
+		<Lang1>Add vendor data success.</Lang1>
+		<Lang2>เพิ่มข้อมูลผู้จัดจำหน่ายสำเร็จ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>3</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Vendor Group</DefaultText>
+		<Lang1>Vendor Group</Lang1>
+		<Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Vendor Code</DefaultText>
+		<Lang1>Vendor Code</Lang1>
+		<Lang2>รหัสผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Vendor Name</DefaultText>
+		<Lang1>Vendor Name</Lang1>
+		<Lang2>ชื่อผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Vendor Group Name</DefaultText>
+		<Lang1>Vendor Group Name</Lang1>
+		<Lang2>กลุ่มผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Contact Name</DefaultText>
+		<Lang1>Contact Name</Lang1>
+		<Lang2>ชื่อผู้ติดต่อ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Telephone</DefaultText>
+		<Lang1>Telephone</Lang1>
+		<Lang2>โทรศัพท์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>9</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Vendor Code</DefaultText>
+		<Lang1>Vendor Code</Lang1>
+		<Lang2>รหัสผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Vendor Name</DefaultText>
+		<Lang1>Vendor Name</Lang1>
+		<Lang2>ชื่อผู้จัดจำหน่าย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20002</FormID>
+		<FormName>VendorForm</FormName>
+		<TextType>4</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Edit</DefaultText>
+		<Lang1>Edit</Lang1>
+		<Lang2>แก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Monthly Stock</DefaultText>
+		<Lang1>Monthly Stock</Lang1>
+		<Lang2>นับสต๊อกรายเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Count stock material each month for closing stock in next month.</DefaultText>
+		<Lang1>Count stock material each month for closing stock in next month.</Lang1>
+		<Lang2>การตรวจนับจำนวนสินค้าทุกสิ้นเดือนเพื่อทำการยกยอดในเดือนถัดไป</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Last closing stock</DefaultText>
+		<Lang1>Last closing stock</Lang1>
+		<Lang2>วันที่ยกยอดล่าสุด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Month</DefaultText>
+		<Lang1>Month</Lang1>
+		<Lang2>นับสต๊อกประจำเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Note</DefaultText>
+		<Lang1>Note</Lang1>
+		<Lang2>หมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>From Date</DefaultText>
+		<Lang1>From Date</Lang1>
+		<Lang2>จากวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>12</TextID>
+		<DefaultText>To Date</DefaultText>
+		<Lang1>To Date</Lang1>
+		<Lang2>ถึงวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Close</DefaultText>
+		<Lang1>Close</Lang1>
+		<Lang2>ปิด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Save</DefaultText>
+		<Lang1>Save</Lang1>
+		<Lang2>บันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Export Excel</DefaultText>
+		<Lang1>Export Excel</Lang1>
+		<Lang2>Export Excel</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>History</DefaultText>
+		<Lang1>History</Lang1>
+		<Lang2>ประวัติบันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Auto transfer</DefaultText>
+		<Lang1>Auto transfer</Lang1>
+		<Lang2>ยกยอดอัตโนมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Count stock</DefaultText>
+		<Lang1>Count stock</Lang1>
+		<Lang2>นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Auto count</DefaultText>
+		<Lang1>Auto count</Lang1>
+		<Lang2>นับอัตโนมัติ</Lang2>
+	</Form>
+  <Form>
+    <FormID>20003</FormID>
+    <FormName>MonthlyStockForm</FormName>
+    <TextType>2</TextType>
+    <TextID>16</TextID>
+    <DefaultText>Print history</DefaultText>
+    <Lang1>Print history</Lang1>
+    <Lang2>พิมพ์ประวัติ</Lang2>
+  </Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Please wait......</DefaultText>
+		<Lang1>Please wait......</Lang1>
+		<Lang2>กรุณารอสักครู่...</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>No data found</DefaultText>
+		<Lang1>No data found</Lang1>
+		<Lang2>ไม่พบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Auto transfer</DefaultText>
+		<Lang1>Auto transfer</Lang1>
+		<Lang2>ยกยอดอัตโนมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Do you want to closing stock</DefaultText>
+		<Lang1>Do you want to closing stock</Lang1>
+		<Lang2>คุณต้องการยกยอดสต๊อกอัตโนมัติ คุณแน่ใจหรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>5</TextID>
+		<DefaultText>The system will automatically calculate the balance.</DefaultText>
+		<Lang1>The system will automatically calculate the balance.</Lang1>
+		<Lang2>ระบบจะทำการคำนวนยอดคงเหลือให้อัตโนมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Do you want to approve monthly stock ?</DefaultText>
+		<Lang1>Do you want to approve monthly stock ?</Lang1>
+		<Lang2>คุณต้องการอนุมัติการนับสต๊อกรายเดือน ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Do you want to cancel monthly stock ?</DefaultText>
+		<Lang1>Do you want to cancel monthly stock ?</Lang1>
+		<Lang2>คุณต้องการยกเลิกการนับสต๊อกรายเดือน ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>8</TextID>
+		<DefaultText>History of monthly stock</DefaultText>
+		<Lang1>History of monthly stock</Lang1>
+		<Lang2>ประวัตินับสต๊อกรายเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Approve monthly stock</DefaultText>
+		<Lang1>Approve monthly stock</Lang1>
+		<Lang2>อนุมัติการนับสต๊อกรายเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Cancel monthly stock</DefaultText>
+		<Lang1>Cancel monthly stock</Lang1>
+		<Lang2>ยกเลิกนับสต๊อกรายเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Please enter number</DefaultText>
+		<Lang1>Please enter number</Lang1>
+		<Lang2>กรุณาใส่จำนวน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Working</DefaultText>
+		<Lang1>Working</Lang1>
+		<Lang2>กำลังแก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>15</TextID>
+		<DefaultText>No data found please check stock count config.</DefaultText>
+		<Lang1>No data found please check stock count config.</Lang1>
+		<Lang2>ไม่พบข้อมูล กรุณาตรวจสอบการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Save successfully</DefaultText>
+		<Lang1>Save successfully</Lang1>
+		<Lang2>บันทึกข้อมูลเรียบร้อยแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>17</TextID>
+		<DefaultText>Save fail !</DefaultText>
+		<Lang1>Save fail !</Lang1>
+		<Lang2>บันทึกข้อมูลล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>18</TextID>
+		<DefaultText>Approve successfully</DefaultText>
+		<Lang1>Approve successfully</Lang1>
+		<Lang2>อนุมัติเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Approve fail !</DefaultText>
+		<Lang1>Approve fail !</Lang1>
+		<Lang2>อนุมัติล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>20</TextID>
+		<DefaultText>The monthly stock of this inventory have approved.</DefaultText>
+		<Lang1>The monthly stock of this inventory have approved.</Lang1>
+		<Lang2>การนับสต๊อกรายเดือนของคลังนี้ได้รับการอนุมัติแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>21</TextID>
+		<DefaultText>You cannot approve monthly stock because this time is not new month</DefaultText>
+		<Lang1>You cannot approve monthly stock because this time is not new month</Lang1>
+		<Lang2>คุณไม่สามารถอนุมัติการนับสต๊อกรายเดือนได้ เนื่องจากยังไม่ถึงเดือนใหม่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>22</TextID>
+		<DefaultText>You need to close stock of last month and then count this stock of this month.</DefaultText>
+		<Lang1>You need to close stock of last month and then count this stock of this month.</Lang1>
+		<Lang2>คุณต้องทำการยกยอดของเดือนที่แล้วก่อน จึงจะสามารถทำการนับสต๊อกของเดือนนี้ได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Cancel successfully</DefaultText>
+		<Lang1>Cancel successfully</Lang1>
+		<Lang2>ยกเลิกเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Warning ! Please save data.</DefaultText>
+		<Lang1>Warning ! Please save data.</Lang1>
+		<Lang2>คำเตือน ! กรุณาบันทึกข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>25</TextID>
+		<DefaultText>You need to endday before approve stockcount.</DefaultText>
+		<Lang1>You need to endday before approve stockcount.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะอนุมัติการนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>26</TextID>
+		<DefaultText>You need to endday before count stock.</DefaultText>
+		<Lang1>You need to endday before count stock.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>27</TextID>
+		<DefaultText>You cannot counting monthly stock</DefaultText>
+		<Lang1>You cannot counting monthly stock</Lang1>
+		<Lang2>คุณไม่สามารถนับสต๊อกรายเดือนได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>28</TextID>
+		<DefaultText>because</DefaultText>
+		<Lang1>because</Lang1>
+		<Lang2>เนื่องจาก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>29</TextID>
+		<DefaultText>not approve</DefaultText>
+		<Lang1>not approve</Lang1>
+		<Lang2>ยังไม่ได้อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>30</TextID>
+		<DefaultText>Display material</DefaultText>
+		<Lang1>Display material</Lang1>
+		<Lang2>แสดงข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>31</TextID>
+		<DefaultText>Some materials are not counted. You must enter  amount for all material before approve this document.</DefaultText>
+		<Lang1>Some materials are not counted. You must enter  amount for all material before approve this document.</Lang1>
+		<Lang2>มีวัตถุดิบที่ยังไม่ได้ทำการนับ คุณต้องใส่จำนวนนับให้ครบทุกตัวก่อน ระบบจึงจะยอมให้อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>32</TextID>
+		<DefaultText>Invalid amount</DefaultText>
+		<Lang1>Invalid amount</Lang1>
+		<Lang2>จำนวนไม่ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>33</TextID>
+		<DefaultText>Can not approve this document, newly document have created. Please check history again.</DefaultText>
+		<Lang1>Can not approve this document, newly document have created. Please check history again.</Lang1>
+		<Lang2>ไม่สามารถอนุมัติเอกสารนี้ได้ เนื่องจากมีการสร้างเอกสารนับสต๊อกใหม่กว่าเอกสารนี้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>34</TextID>
+		<DefaultText>Auto transfer successfully.</DefaultText>
+		<Lang1>Auto transfer successfully.</Lang1>
+		<Lang2>ยกยอดอัตโนมัติสำเร็จ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>35</TextID>
+		<DefaultText>Stock count automatic will generate current amount equal system balance. Are you sure?</DefaultText>
+		<Lang1>Stock count automatic will generate current amount equal system balance. Are you sure?</Lang1>
+		<Lang2>นับสต๊อกอัตโนมัติเป็นการนับเท่ากับจำนวนคงเหลือจากระบบ คุณแน่ใจหรือไม่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>36</TextID>
+		<DefaultText>Click for refresh if you modify stock count setting.</DefaultText>
+		<Lang1>Click for refresh if you modify stock count setting.</Lang1>
+		<Lang2>คลิก refresh เมื่อมีการเปลี่ยนแปลงการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+  <Form>
+    <FormID>20003</FormID>
+    <FormName>MonthlyStockForm</FormName>
+    <TextType>3</TextType>
+    <TextID>37</TextID>
+    <DefaultText>This shop already have transfer document.</DefaultText>
+    <Lang1>This shop already have transfer document.</Lang1>
+    <Lang2>มีการยกยอดสต๊อกของเดือนนี้แล้ว</Lang2>
+  </Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Diff</DefaultText>
+		<Lang1>Diff</Lang1>
+		<Lang2>ผลต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Unit</DefaultText>
+		<Lang1>Unit</Lang1>
+		<Lang2>หน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Material list</DefaultText>
+		<Lang1>Material list</Lang1>
+		<Lang2>รายการวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Count date</DefaultText>
+		<Lang1>Count date</Lang1>
+		<Lang2>วันที่นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Count by</DefaultText>
+		<Lang1>Count by</Lang1>
+		<Lang2>พนักงานนับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Status</DefaultText>
+		<Lang1>Status</Lang1>
+		<Lang2>สถานะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Approve by</DefaultText>
+		<Lang1>Approve by</Lang1>
+		<Lang2>พนักงานอนุมัติสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20003</FormID>
+		<FormName>MonthlyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Approve date</DefaultText>
+		<Lang1>Approve date</Lang1>
+		<Lang2>วันที่อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Weekly Stock</DefaultText>
+		<Lang1>Weekly Stock</Lang1>
+		<Lang2>นับสต๊อกรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Count stock at the end of each week. To adjust the quantity of stock properly.</DefaultText>
+		<Lang1>Count stock at the end of each week. To adjust the quantity of stock properly.</Lang1>
+		<Lang2>นับสต๊อกเมื่อสิ้นสุดในแต่ละสัปดาห์ เพื่อปรับจำนวนสต๊อกให้ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Last count date</DefaultText>
+		<Lang1>Last count date</Lang1>
+		<Lang2>วันที่นับสต๊อกล่าสุด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Note</DefaultText>
+		<Lang1>Note</Lang1>
+		<Lang2>หมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>From Date</DefaultText>
+		<Lang1>From Date</Lang1>
+		<Lang2>จากวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>To Date</DefaultText>
+		<Lang1>To Date</Lang1>
+		<Lang2>ถึงวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Close</DefaultText>
+		<Lang1>Close</Lang1>
+		<Lang2>ปิด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Save</DefaultText>
+		<Lang1>Save</Lang1>
+		<Lang2>บันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Export Excel</DefaultText>
+		<Lang1>Export Excel</Lang1>
+		<Lang2>Export Excel</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>History</DefaultText>
+		<Lang1>History</Lang1>
+		<Lang2>ประวัติบันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Count stock</DefaultText>
+		<Lang1>Count stock</Lang1>
+		<Lang2>นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Auto count</DefaultText>
+		<Lang1>Auto count</Lang1>
+		<Lang2>นับอัตโนมัติ</Lang2>
+	</Form>
+  <Form>
+    <FormID>20004</FormID>
+    <FormName>WeeklyStockForm</FormName>
+    <TextType>2</TextType>
+    <TextID>16</TextID>
+    <DefaultText>Print history</DefaultText>
+    <Lang1>Print history</Lang1>
+    <Lang2>พิมพ์ประวัติ</Lang2>
+  </Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Please wait…</DefaultText>
+		<Lang1>Please wait…</Lang1>
+		<Lang2>กรุณารอสักครู่...</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>No data found</DefaultText>
+		<Lang1>No data found</Lang1>
+		<Lang2>ไม่พบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Do you want to approve weekly stock ?</DefaultText>
+		<Lang1>Do you want to approve weekly stock ?</Lang1>
+		<Lang2>คุณต้องการอนุมัติการนับสต๊อกรายสัปดาห์ ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Do you want to cancel weekly stock ?</DefaultText>
+		<Lang1>Do you want to cancel weekly stock ?</Lang1>
+		<Lang2>คุณต้องการยกเลิกการนับสต๊อกรายสัปดาห์ ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>5</TextID>
+		<DefaultText>History of weekly stock</DefaultText>
+		<Lang1>History of weekly stock</Lang1>
+		<Lang2>ประวัตินับสต๊อกรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Approve weekly stock</DefaultText>
+		<Lang1>Approve weekly stock</Lang1>
+		<Lang2>อนุมัติการนับสต๊อกรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Cancel weekly stock</DefaultText>
+		<Lang1>Cancel weekly stock</Lang1>
+		<Lang2>ยกเลิกนับสต๊อกรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Please enter number</DefaultText>
+		<Lang1>Please enter number</Lang1>
+		<Lang2>กรุณาใส่จำนวน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Working</DefaultText>
+		<Lang1>Working</Lang1>
+		<Lang2>กำลังแก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>12</TextID>
+		<DefaultText>No data found please check stock count config.</DefaultText>
+		<Lang1>No data found please check stock count config.</Lang1>
+		<Lang2>ไม่พบข้อมูล กรุณาตรวจสอบการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Save successfully</DefaultText>
+		<Lang1>Save successfully</Lang1>
+		<Lang2>บันทึกข้อมูลเรียบร้อยแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Save fail !</DefaultText>
+		<Lang1>Save fail !</Lang1>
+		<Lang2>บันทึกข้อมูลล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Approve successfully</DefaultText>
+		<Lang1>Approve successfully</Lang1>
+		<Lang2>อนุมัติเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Approve fail !</DefaultText>
+		<Lang1>Approve fail !</Lang1>
+		<Lang2>อนุมัติล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>17</TextID>
+		<DefaultText>The weekly stock of this inventory have approved.</DefaultText>
+		<Lang1>The weekly stock of this inventory have approved.</Lang1>
+		<Lang2>การนับสต๊อกรายสัปดาห์ของคลังนี้ ได้รับการอนุมัติไปแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>18</TextID>
+		<DefaultText>You need to close stock of last month and then count this stock of this month.</DefaultText>
+		<Lang1>You need to close stock of last month and then count this stock of this month</Lang1>
+		<Lang2>คุณต้องทำการยกยอดของเดือนที่แล้วก่อน จึงจะสามารถทำการนับสต๊อกของเดือนนี้ได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Cancel successfully</DefaultText>
+		<Lang1>Cancel successfully</Lang1>
+		<Lang2>ยกเลิกเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Warning ! Please save data.</DefaultText>
+		<Lang1>Warning ! Please save data.</Lang1>
+		<Lang2>คำเตือน ! กรุณาบันทึกข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Today is weekly stock</DefaultText>
+		<Lang1>Today is weekly stock</Lang1>
+		<Lang2>วันนี้เป็นวันนับสต๊อกรายวัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Report</DefaultText>
+		<Lang1>Report</Lang1>
+		<Lang2>รายงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Adjust stock report</DefaultText>
+		<Lang1>Adjust stock report</Lang1>
+		<Lang2>รายงานการปรับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Adjust stock report by product</DefaultText>
+		<Lang1>Adjust stock report by product</Lang1>
+		<Lang2>รายงานการปรับสต๊อกตามสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>25</TextID>
+		<DefaultText>You need to endday before approve stockcount.</DefaultText>
+		<Lang1>You need to endday before approve stockcount.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะอนุมัติการนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>26</TextID>
+		<DefaultText>You need to endday before count stock.</DefaultText>
+		<Lang1>You need to endday before count stock.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>27</TextID>
+		<DefaultText>Today is the monthly stock day. You do not need to count weekly stock.</DefaultText>
+		<Lang1>Today is the monthly stock day. You do not need to count weekly stock.</Lang1>
+		<Lang2>วันนี้เป็นวันนับสต๊อกรายเดือน คุณไม่จำเป็นต้องนับสต๊อกรายสัปดาห์ เพื่อความถูกต้องให้ทำการนับสต๊อกรายเดือนแทน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>28</TextID>
+		<DefaultText>Some materials are not counted. You must enter  amount for all material before approve this document.</DefaultText>
+		<Lang1>Some materials are not counted. You must enter  amount for all material before approve this document.</Lang1>
+		<Lang2>มีวัตถุดิบที่ยังไม่ได้ทำการนับ คุณต้องใส่จำนวนนับให้ครบทุกตัวก่อน ระบบจึงจะยอมให้อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>29</TextID>
+		<DefaultText>Warning</DefaultText>
+		<Lang1>Warning</Lang1>
+		<Lang2>คำเตือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>30</TextID>
+		<DefaultText>Invalid amount</DefaultText>
+		<Lang1>Invalid amount</Lang1>
+		<Lang2>จำนวนไม่ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>31</TextID>
+		<DefaultText>Can not approve this document, newly document have created. Please check history again.</DefaultText>
+		<Lang1>Can not approve this document, newly document have created. Please check history again.</Lang1>
+		<Lang2>ไม่สามารถอนุมัติเอกสารนี้ได้ เนื่องจากมีการสร้างเอกสารนับสต๊อกใหม่กว่าเอกสารนี้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>32</TextID>
+		<DefaultText>Stock count automatic will generate current amount equal system balance. Are you sure?</DefaultText>
+		<Lang1>Stock count automatic will generate current amount equal system balance. Are you sure?</Lang1>
+		<Lang2>นับสต๊อกอัตโนมัติเป็นการนับเท่ากับจำนวนคงเหลือจากระบบ คุณแน่ใจหรือไม่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>33</TextID>
+		<DefaultText>Click for refresh if you modify stock count setting.</DefaultText>
+		<Lang1>Click for refresh if you modify stock count setting.</Lang1>
+		<Lang2>คลิก refresh เมื่อมีการเปลี่ยนแปลงการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Diff</DefaultText>
+		<Lang1>Diff</Lang1>
+		<Lang2>ผลต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Unit</DefaultText>
+		<Lang1>Unit</Lang1>
+		<Lang2>หน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Material list</DefaultText>
+		<Lang1>Material list</Lang1>
+		<Lang2>รายการวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Count date</DefaultText>
+		<Lang1>Count date</Lang1>
+		<Lang2>วันที่นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Count by</DefaultText>
+		<Lang1>Count by</Lang1>
+		<Lang2>พนักงานนับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Status</DefaultText>
+		<Lang1>Status</Lang1>
+		<Lang2>สถานะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Approve by</DefaultText>
+		<Lang1>Approve by</Lang1>
+		<Lang2>พนักงานอนุมัติสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20004</FormID>
+		<FormName>WeeklyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Approve date</DefaultText>
+		<Lang1>Approve date</Lang1>
+		<Lang2>วันที่อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Daily Stock</DefaultText>
+		<Lang1>Daily Stock</Lang1>
+		<Lang2>นับสต๊อกรายวัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Count stock at the end of each day. To adjust the quantity of stock properly.</DefaultText>
+		<Lang1>Count stock at the end of each day. To adjust the quantity of stock properly.</Lang1>
+		<Lang2>นับสต๊อกเมื่อสิ้นสุดในแต่ละวัน เพื่อปรับจำนวนสต๊อกให้ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Last count date</DefaultText>
+		<Lang1>Last count date</Lang1>
+		<Lang2>วันที่นับสต๊อกล่าสุด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Note</DefaultText>
+		<Lang1>Note</Lang1>
+		<Lang2>หมายเหตุ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>10</TextID>
+		<DefaultText>From Date</DefaultText>
+		<Lang1>From Date</Lang1>
+		<Lang2>จากวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>11</TextID>
+		<DefaultText>To Date</DefaultText>
+		<Lang1>To Date</Lang1>
+		<Lang2>ถึงวันที่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Close</DefaultText>
+		<Lang1>Close</Lang1>
+		<Lang2>ปิด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Save</DefaultText>
+		<Lang1>Save</Lang1>
+		<Lang2>บันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Export Excel</DefaultText>
+		<Lang1>Export Excel</Lang1>
+		<Lang2>Export Excel</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>6</TextID>
+		<DefaultText>History</DefaultText>
+		<Lang1>History</Lang1>
+		<Lang2>ประวัติบันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Count stock</DefaultText>
+		<Lang1>Count stock</Lang1>
+		<Lang2>นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Ok</DefaultText>
+		<Lang1>Ok</Lang1>
+		<Lang2>ตกลง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Auto count</DefaultText>
+		<Lang1>Auto count</Lang1>
+		<Lang2>นับอัตโนมัติ</Lang2>
+	</Form>
+  <Form>
+    <FormID>20005</FormID>
+    <FormName>DailyStockForm</FormName>
+    <TextType>2</TextType>
+    <TextID>16</TextID>
+    <DefaultText>Print history</DefaultText>
+    <Lang1>Print history</Lang1>
+    <Lang2>พิมพ์ประวัติ</Lang2>
+  </Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Please wait…</DefaultText>
+		<Lang1>Please wait…</Lang1>
+		<Lang2>กรุณารอสักครู่...</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>No data found</DefaultText>
+		<Lang1>No data found</Lang1>
+		<Lang2>ไม่พบข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Do you want to approve daily stock ?</DefaultText>
+		<Lang1>Do you want to approve daily stock ?</Lang1>
+		<Lang2>คุณต้องการอนุมัติการนับสต๊อกรายวัน ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Do you want to cancel daily stock ?</DefaultText>
+		<Lang1>Do you want to cancel daily stock ?</Lang1>
+		<Lang2>คุณต้องการยกเลิกการนับสต๊อกรายวัน ใช่หรือไม่ ?</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>5</TextID>
+		<DefaultText>History of dialy stock</DefaultText>
+		<Lang1>History of dialy stock</Lang1>
+		<Lang2>ประวัตินับสต๊อกรายวัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Approve daily stock</DefaultText>
+		<Lang1>Approve daily stock</Lang1>
+		<Lang2>อนุมัติการนับสต๊อกรายวัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Cancel daily stock</DefaultText>
+		<Lang1>Cancel daily stock</Lang1>
+		<Lang2>ยกเลิกนับสต๊อกรายวัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Please enter number</DefaultText>
+		<Lang1>Please enter number</Lang1>
+		<Lang2>กรุณาใส่จำนวน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Working</DefaultText>
+		<Lang1>Working</Lang1>
+		<Lang2>กำลังแก้ไข</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Approve</DefaultText>
+		<Lang1>Approve</Lang1>
+		<Lang2>อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Cancel</DefaultText>
+		<Lang1>Cancel</Lang1>
+		<Lang2>ยกเลิก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>12</TextID>
+		<DefaultText>No data found please check stock count config.</DefaultText>
+		<Lang1>No data found please check stock count config.</Lang1>
+		<Lang2>ไม่พบข้อมูล กรุณาตรวจสอบการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Save successfully</DefaultText>
+		<Lang1>Save successfully</Lang1>
+		<Lang2>บันทึกข้อมูลเรียบร้อยแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>14</TextID>
+		<DefaultText>Save fail !</DefaultText>
+		<Lang1>Save fail !</Lang1>
+		<Lang2>บันทึกข้อมูลล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>15</TextID>
+		<DefaultText>Approve successfully</DefaultText>
+		<Lang1>Approve successfully</Lang1>
+		<Lang2>อนุมัติเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>16</TextID>
+		<DefaultText>Approve fail !</DefaultText>
+		<Lang1>Approve fail !</Lang1>
+		<Lang2>อนุมัติล้มเหลว !</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>17</TextID>
+		<DefaultText>The daily stock of this inventory have approved.</DefaultText>
+		<Lang1>The daily stock of this inventory have approved.</Lang1>
+		<Lang2>การนับสต๊อกรายวันของคลังนี้ได้รับการอนุมัติแล้ว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>18</TextID>
+		<DefaultText>You need to close stock of last month and then count this stock of this month.</DefaultText>
+		<Lang1>You need to close stock of last month and then count this stock of this month.</Lang1>
+		<Lang2>คุณต้องทำการยกยอดของเดือนที่แล้วก่อน จึงจะสามารถทำการนับสต๊อกของเดือนนี้ได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>19</TextID>
+		<DefaultText>Cancel successfully</DefaultText>
+		<Lang1>Cancel successfully</Lang1>
+		<Lang2>ยกเลิกเรียบร้อย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>20</TextID>
+		<DefaultText>Warning ! Please save data.</DefaultText>
+		<Lang1>Warning ! Please save data.</Lang1>
+		<Lang2>คำเตือน ! กรุณาบันทึกข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>21</TextID>
+		<DefaultText>Today is weekly stock</DefaultText>
+		<Lang1>Today is weekly stock</Lang1>
+		<Lang2>วันนี้เป็นวันนับสต๊อกรายสัปดาห์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>22</TextID>
+		<DefaultText>Report</DefaultText>
+		<Lang1>Report</Lang1>
+		<Lang2>รายงาน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>23</TextID>
+		<DefaultText>Adjust stock report</DefaultText>
+		<Lang1>Adjust stock report</Lang1>
+		<Lang2>รายงานการปรับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>24</TextID>
+		<DefaultText>Adjust stock report by product</DefaultText>
+		<Lang1>Adjust stock report by product</Lang1>
+		<Lang2>รายงานการปรับสต๊อกตามสินค้า</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>25</TextID>
+		<DefaultText>You need to endday before approve stockcount.</DefaultText>
+		<Lang1>You need to endday before approve stockcount.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะอนุมัติการนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>26</TextID>
+		<DefaultText>You need to endday before count stock.</DefaultText>
+		<Lang1>You need to endday before count stock.</Lang1>
+		<Lang2>ต้องทำการปิดสิ้นวันก่อนจึงจะนับสต๊อกได้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>27</TextID>
+		<DefaultText>Today is the weekly stock day. You do not need to count daily stock.</DefaultText>
+		<Lang1>Today is the weekly stock day. You do not need to count daily stock.</Lang1>
+		<Lang2>วันนี้เป็นวันนับสต๊อกรายสัปดาห์ คุณไม่จำเป็นต้องนับสต๊อกรายวัน เพื่อความถูกต้องให้ทำการนับสต๊อกรายสัปดาห์แทน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>28</TextID>
+		<DefaultText>Today is the monthly stock day. You do not need to count daily stock.</DefaultText>
+		<Lang1>Today is the monthly stock day. You do not need to count daily stock.</Lang1>
+		<Lang2>วันนี้เป็นวันนับสต๊อกรายเดือน คุณไม่จำเป็นต้องนับสต๊อกรายวัน เพื่อความถูกต้องให้ทำการนับสต๊อกรายเดือนแทน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>29</TextID>
+		<DefaultText>Some materials are not counted. You must enter  amount for all material before approve this document.</DefaultText>
+		<Lang1>Some materials are not counted. You must enter  amount for all material before approve this document.</Lang1>
+		<Lang2>มีวัตถุดิบที่ยังไม่ได้ทำการนับ คุณต้องใส่จำนวนนับให้ครบทุกตัวก่อน ระบบจึงจะยอมให้อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>30</TextID>
+		<DefaultText>Warning</DefaultText>
+		<Lang1>Warning</Lang1>
+		<Lang2>คำเตือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>31</TextID>
+		<DefaultText>Invalid amount</DefaultText>
+		<Lang1>Invalid amount</Lang1>
+		<Lang2>จำนวนไม่ถูกต้อง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>32</TextID>
+		<DefaultText>Can not approve this document, newly document have created. Please check history again.</DefaultText>
+		<Lang1>Can not approve this document, newly document have created. Please check history again.</Lang1>
+		<Lang2>ไม่สามารถอนุมัติเอกสารนี้ได้ เนื่องจากมีการสร้างเอกสารนับสต๊อกใหม่กว่าเอกสารนี้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>33</TextID>
+		<DefaultText>Stock count automatic will generate current amount equal system balance. Are you sure?</DefaultText>
+		<Lang1>Stock count automatic will generate current amount equal system balance. Are you sure?</Lang1>
+		<Lang2>นับสต๊อกอัตโนมัติเป็นการนับเท่ากับจำนวนคงเหลือจากระบบ คุณแน่ใจหรือไม่</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>34</TextID>
+		<DefaultText>Click for refresh if you modify stock count setting.</DefaultText>
+		<Lang1>Click for refresh if you modify stock count setting.</Lang1>
+		<Lang2>คลิก refresh เมื่อมีการเปลี่ยนแปลงการตั้งค่านับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Balance</DefaultText>
+		<Lang1>Balance</Lang1>
+		<Lang2>คงเหลือ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Count</DefaultText>
+		<Lang1>Count</Lang1>
+		<Lang2>นับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Diff</DefaultText>
+		<Lang1>Diff</Lang1>
+		<Lang2>ผลต่าง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Unit</DefaultText>
+		<Lang1>Unit</Lang1>
+		<Lang2>หน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>8</TextID>
+		<DefaultText>Material list</DefaultText>
+		<Lang1>Material list</Lang1>
+		<Lang2>รายการวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>9</TextID>
+		<DefaultText>Count date</DefaultText>
+		<Lang1>Count date</Lang1>
+		<Lang2>วันที่นับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>10</TextID>
+		<DefaultText>Count by</DefaultText>
+		<Lang1>Count by</Lang1>
+		<Lang2>พนักงานนับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>11</TextID>
+		<DefaultText>Status</DefaultText>
+		<Lang1>Status</Lang1>
+		<Lang2>สถานะ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>12</TextID>
+		<DefaultText>Approve by</DefaultText>
+		<Lang1>Approve by</Lang1>
+		<Lang2>พนักงานอนุมัติสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20005</FormID>
+		<FormName>DailyStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>13</TextID>
+		<DefaultText>Approve date</DefaultText>
+		<Lang1>Approve date</Lang1>
+		<Lang2>วันที่อนุมัติ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Stock count config</DefaultText>
+		<Lang1>Stock count config</Lang1>
+		<Lang2>ตั้งค่าการนับสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Stock count config for monthly, weekly, daily</DefaultText>
+		<Lang1>Stock count config for monthly, weekly, daily</Lang1>
+		<Lang2>ตั้งค่าสินค้าที่ต้องการนับสต๊อก สำหรับการนับสต๊อกรายวัน รายสัปดาห์ รายเดือน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Count type</DefaultText>
+		<Lang1>Count type</Lang1>
+		<Lang2>รูปแบบการนับ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Material group</DefaultText>
+		<Lang1>Material group</Lang1>
+		<Lang2>เลือกกลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>1</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Material dept</DefaultText>
+		<Lang1>Material dept</Lang1>
+		<Lang2>เลือกหมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Display material</DefaultText>
+		<Lang1>Display material</Lang1>
+		<Lang2>แสดงข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Save</DefaultText>
+		<Lang1>Save</Lang1>
+		<Lang2>บันทึก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Save config</DefaultText>
+		<Lang1>Save config</Lang1>
+		<Lang2>บันทึกการตั้งค่า</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Save config success</DefaultText>
+		<Lang1>Save config success</Lang1>
+		<Lang2>บันทึกการตั้งค่าสำเร็จ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>3</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Save config fail</DefaultText>
+		<Lang1>Save config fail</Lang1>
+		<Lang2>บันทึกการตั้งค่าล้มเหลว</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>3</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Please wait…</DefaultText>
+		<Lang1>Please wait…</Lang1>
+		<Lang2>กรุณารอสักครู่...</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Material code</DefaultText>
+		<Lang1>Material code</Lang1>
+		<Lang2>รหัสวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Material name</DefaultText>
+		<Lang1>Material name</Lang1>
+		<Lang2>ชื่อวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Material group</DefaultText>
+		<Lang1>Material group</Lang1>
+		<Lang2>กลุ่มวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20006</FormID>
+		<FormName>StockCountConfigForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Material dept</DefaultText>
+		<Lang1>Material dept</Lang1>
+		<Lang2>หมวดวัตถุดิบ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Minimum stock</DefaultText>
+		<Lang1>Minimum stock</Lang1>
+		<Lang2>ค่าต่ำสุดสต๊อก</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>2</TextID>
+		<DefaultText>List  materials that  less than the minimum value</DefaultText>
+		<Lang1>List  materials that  less than the minimum value</Lang1>
+		<Lang2>แสดงรายการวัตถุดิบที่มีจำนวนน้อยกว่าค่าต่ำสุดที่ได้ตั้งไว้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>1</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Inventory</DefaultText>
+		<Lang1>Inventory</Lang1>
+		<Lang2>คลัง</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Print</DefaultText>
+		<Lang1>Print</Lang1>
+		<Lang2>พิมพ์</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>2</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Display material</DefaultText>
+		<Lang1>Display material</Lang1>
+		<Lang2>แสดงข้อมูล</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>1</TextID>
+		<DefaultText>Please wait...</DefaultText>
+		<Lang1>Please wait…</Lang1>
+		<Lang2>กรุณารอสักครู่...</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>3</TextType>
+		<TextID>2</TextID>
+		<DefaultText>No data found.</DefaultText>
+		<Lang1>No data found.</Lang1>
+		<Lang2>ไม่มีวัตถุดิบที่จำนวนคงเหลือน้อยกว่าค่าต่ำสุดที่ตั้งไว้</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>1</TextID>
+		<DefaultText>#</DefaultText>
+		<Lang1>#</Lang1>
+		<Lang2>#</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>2</TextID>
+		<DefaultText>Code</DefaultText>
+		<Lang1>Code</Lang1>
+		<Lang2>รหัส</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>3</TextID>
+		<DefaultText>Name</DefaultText>
+		<Lang1>Name</Lang1>
+		<Lang2>ชื่อ</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>4</TextID>
+		<DefaultText>Minimum Qty</DefaultText>
+		<Lang1>Minimum Qty</Lang1>
+		<Lang2>จำนวนต่ำสุด</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>5</TextID>
+		<DefaultText>Current Qty</DefaultText>
+		<Lang1>Current Qty</Lang1>
+		<Lang2>จำนวนปัจจุบัน</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>6</TextID>
+		<DefaultText>Unit</DefaultText>
+		<Lang1>Unit</Lang1>
+		<Lang2>หน่วย</Lang2>
+	</Form>
+	<Form>
+		<FormID>20007</FormID>
+		<FormName>MinimumStockForm</FormName>
+		<TextType>4</TextType>
+		<TextID>7</TextID>
+		<DefaultText>Product list</DefaultText>
+		<Lang1>Product list</Lang1>
+		<Lang2>รายการสินค้า</Lang2>
+	</Form>
+</LanguageData>
